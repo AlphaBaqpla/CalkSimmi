@@ -1,0 +1,3325 @@
+continent,location,date,new_cases,new_deaths
+North America,United States,1/22/2020,,
+North America,United States,1/23/2020,0,
+North America,United States,1/24/2020,1,
+North America,United States,1/25/2020,0,
+North America,United States,1/26/2020,3,
+North America,United States,1/27/2020,0,
+North America,United States,1/28/2020,0,
+North America,United States,1/29/2020,1,
+North America,United States,1/30/2020,0,
+North America,United States,1/31/2020,2,
+North America,United States,2/1/2020,0,
+North America,United States,2/2/2020,0,
+North America,United States,2/3/2020,3,
+North America,United States,2/4/2020,0,
+North America,United States,2/5/2020,0,
+North America,United States,2/6/2020,1,
+North America,United States,2/7/2020,0,
+North America,United States,2/8/2020,0,
+North America,United States,2/9/2020,0,
+North America,United States,2/10/2020,0,
+North America,United States,2/11/2020,1,
+North America,United States,2/12/2020,0,
+North America,United States,2/13/2020,1,
+North America,United States,2/14/2020,0,
+North America,United States,2/15/2020,0,
+North America,United States,2/16/2020,0,
+North America,United States,2/17/2020,0,
+North America,United States,2/18/2020,0,
+North America,United States,2/19/2020,0,
+North America,United States,2/20/2020,0,
+North America,United States,2/21/2020,2,
+North America,United States,2/22/2020,0,
+North America,United States,2/23/2020,0,
+North America,United States,2/24/2020,0,
+North America,United States,2/25/2020,0,
+North America,United States,2/26/2020,0,
+North America,United States,2/27/2020,1,
+North America,United States,2/28/2020,0,
+North America,United States,2/29/2020,8,1
+North America,United States,3/1/2020,7,0
+North America,United States,3/2/2020,23,5
+North America,United States,3/3/2020,19,1
+North America,United States,3/4/2020,33,4
+North America,United States,3/5/2020,77,1
+North America,United States,3/6/2020,53,2
+North America,United States,3/7/2020,166,3
+North America,United States,3/8/2020,116,4
+North America,United States,3/9/2020,75,1
+North America,United States,3/10/2020,188,6
+North America,United States,3/11/2020,365,5
+North America,United States,3/12/2020,439,10
+North America,United States,3/13/2020,633,8
+North America,United States,3/14/2020,759,7
+North America,United States,3/15/2020,234,12
+North America,United States,3/16/2020,1467,27
+North America,United States,3/17/2020,1833,36
+North America,United States,3/18/2020,2657,59
+North America,United States,3/19/2020,4494,72
+North America,United States,3/20/2020,6367,103
+North America,United States,3/21/2020,5995,99
+North America,United States,3/22/2020,8830,110
+North America,United States,3/23/2020,11231,187
+North America,United States,3/24/2020,10612,241
+North America,United States,3/25/2020,12075,326
+North America,United States,3/26/2020,17840,412
+North America,United States,3/27/2020,18680,521
+North America,United States,3/28/2020,19607,635
+North America,United States,3/29/2020,18879,592
+North America,United States,3/30/2020,22082,697
+North America,United States,3/31/2020,26316,1091
+North America,United States,4/1/2020,32241,1261
+North America,United States,4/2/2020,32218,1496
+North America,United States,4/3/2020,32270,1407
+North America,United States,4/4/2020,32412,1547
+North America,United States,4/5/2020,29885,1581
+North America,United States,4/6/2020,31410,1756
+North America,United States,4/7/2020,30769,2574
+North America,United States,4/8/2020,31198,2143
+North America,United States,4/9/2020,35954,2206
+North America,United States,4/10/2020,34408,2218
+North America,United States,4/11/2020,29177,2132
+North America,United States,4/12/2020,27281,1820
+North America,United States,4/13/2020,26910,1962
+North America,United States,4/14/2020,28772,2443
+North America,United States,4/15/2020,25431,2598
+North America,United States,4/16/2020,30035,2160
+North America,United States,4/17/2020,32719,2091
+North America,United States,4/18/2020,27956,1973
+North America,United States,4/19/2020,26193,1938
+North America,United States,4/20/2020,29796,2196
+North America,United States,4/21/2020,25834,2538
+North America,United States,4/22/2020,28772,2428
+North America,United States,4/23/2020,33568,2456
+North America,United States,4/24/2020,32272,2160
+North America,United States,4/25/2020,30442,1706
+North America,United States,4/26/2020,26580,1350
+North America,United States,4/27/2020,23618,1464
+North America,United States,4/28/2020,24448,2224
+North America,United States,4/29/2020,26390,2519
+North America,United States,4/30/2020,29167,2403
+North America,United States,5/1/2020,34916,1888
+North America,United States,5/2/2020,27420,1705
+North America,United States,5/3/2020,24456,1118
+North America,United States,5/4/2020,23976,1324
+North America,United States,5/5/2020,24472,2287
+North America,United States,5/6/2020,24510,2349
+North America,United States,5/7/2020,27365,1919
+North America,United States,5/8/2020,26806,1749
+North America,United States,5/9/2020,25190,1532
+North America,United States,5/10/2020,18967,911
+North America,United States,5/11/2020,19185,1000
+North America,United States,5/12/2020,22857,1618
+North America,United States,5/13/2020,20389,1742
+North America,United States,5/14/2020,26913,1781
+North America,United States,5/15/2020,24700,1670
+North America,United States,5/16/2020,24161,1272
+North America,United States,5/17/2020,18482,763
+North America,United States,5/18/2020,22234,1176
+North America,United States,5/19/2020,20939,1501
+North America,United States,5/20/2020,22734,1515
+North America,United States,5/21/2020,25687,1207
+North America,United States,5/22/2020,23590,1245
+North America,United States,5/23/2020,21244,1147
+North America,United States,5/24/2020,20180,608
+North America,United States,5/25/2020,18766,559
+North America,United States,5/26/2020,19506,663
+North America,United States,5/27/2020,18394,1500
+North America,United States,5/28/2020,22209,1167
+North America,United States,5/29/2020,24459,1167
+North America,United States,5/30/2020,23679,950
+North America,United States,5/31/2020,19074,694
+North America,United States,6/1/2020,17437,781
+North America,United States,6/2/2020,21374,1040
+North America,United States,6/3/2020,19702,994
+North America,United States,6/4/2020,21547,1018
+North America,United States,6/5/2020,25475,888
+North America,United States,6/6/2020,21273,703
+North America,United States,6/7/2020,17901,450
+North America,United States,6/8/2020,17516,507
+North America,United States,6/9/2020,18179,921
+North America,United States,6/10/2020,21011,893
+North America,United States,6/11/2020,23071,853
+North America,United States,6/12/2020,24738,818
+North America,United States,6/13/2020,25124,772
+North America,United States,6/14/2020,19094,315
+North America,United States,6/15/2020,19636,387
+North America,United States,6/16/2020,23357,821
+North America,United States,6/17/2020,26617,741
+North America,United States,6/18/2020,27931,689
+North America,United States,6/19/2020,31197,662
+North America,United States,6/20/2020,32182,605
+North America,United States,6/21/2020,25273,299
+North America,United States,6/22/2020,31388,389
+North America,United States,6/23/2020,36144,841
+North America,United States,6/24/2020,34869,757
+North America,United States,6/25/2020,39814,542
+North America,United States,6/26/2020,45503,629
+North America,United States,6/27/2020,41223,508
+North America,United States,6/28/2020,40443,292
+North America,United States,6/29/2020,40648,391
+North America,United States,6/30/2020,46036,632
+North America,United States,7/1/2020,51419,697
+North America,United States,7/2/2020,56295,733
+North America,United States,7/3/2020,51120,662
+North America,United States,7/4/2020,45785,293
+North America,United States,7/5/2020,51018,304
+North America,United States,7/6/2020,42898,363
+North America,United States,7/7/2020,60597,1200
+North America,United States,7/8/2020,60300,857
+North America,United States,7/9/2020,62834,1005
+North America,United States,7/10/2020,67902,813
+North America,United States,7/11/2020,60859,711
+North America,United States,7/12/2020,58730,465
+North America,United States,7/13/2020,58506,427
+North America,United States,7/14/2020,68180,928
+North America,United States,7/15/2020,68107,968
+North America,United States,7/16/2020,75815,962
+North America,United States,7/17/2020,71800,919
+North America,United States,7/18/2020,62680,870
+North America,United States,7/19/2020,60719,470
+North America,United States,7/20/2020,62012,544
+North America,United States,7/21/2020,64841,1123
+North America,United States,7/22/2020,70777,1218
+North America,United States,7/23/2020,68848,1097
+North America,United States,7/24/2020,73457,1153
+North America,United States,7/25/2020,64964,880
+North America,United States,7/26/2020,55109,521
+North America,United States,7/27/2020,56419,1132
+North America,United States,7/28/2020,66310,1361
+North America,United States,7/29/2020,71812,1422
+North America,United States,7/30/2020,67575,1224
+North America,United States,7/31/2020,68654,1263
+North America,United States,8/1/2020,56365,1096
+North America,United States,8/2/2020,45899,414
+North America,United States,8/3/2020,45599,565
+North America,United States,8/4/2020,58598,1357
+North America,United States,8/5/2020,54109,1397
+North America,United States,8/6/2020,59685,1226
+North America,United States,8/7/2020,58816,1233
+North America,United States,8/8/2020,54358,1079
+North America,United States,8/9/2020,46021,536
+North America,United States,8/10/2020,48456,553
+North America,United States,8/11/2020,47009,1038
+North America,United States,8/12/2020,56877,1512
+North America,United States,8/13/2020,51959,1059
+North America,United States,8/14/2020,65781,1332
+North America,United States,8/15/2020,46849,1030
+North America,United States,8/16/2020,39728,577
+North America,United States,8/17/2020,36642,458
+North America,United States,8/18/2020,45065,1302
+North America,United States,8/19/2020,47414,1319
+North America,United States,8/20/2020,43973,1083
+North America,United States,8/21/2020,48797,1092
+North America,United States,8/22/2020,43415,970
+North America,United States,8/23/2020,34333,458
+North America,United States,8/24/2020,36738,453
+North America,United States,8/25/2020,40196,1215
+North America,United States,8/26/2020,45503,1227
+North America,United States,8/27/2020,45302,1100
+North America,United States,8/28/2020,47074,964
+North America,United States,8/29/2020,42972,898
+North America,United States,8/30/2020,34613,443
+North America,United States,8/31/2020,35324,539
+North America,United States,9/1/2020,41713,1050
+North America,United States,9/2/2020,41071,1045
+North America,United States,9/3/2020,43862,1058
+North America,United States,9/4/2020,50317,960
+North America,United States,9/5/2020,43143,774
+North America,United States,9/6/2020,31464,413
+North America,United States,9/7/2020,23513,286
+North America,United States,9/8/2020,27356,454
+North America,United States,9/9/2020,33766,1157
+North America,United States,9/10/2020,36164,916
+North America,United States,9/11/2020,47588,1196
+North America,United States,9/12/2020,41120,719
+North America,United States,9/13/2020,34375,396
+North America,United States,9/14/2020,34162,414
+North America,United States,9/15/2020,39405,1286
+North America,United States,9/16/2020,38493,983
+North America,United States,9/17/2020,45143,864
+North America,United States,9/18/2020,49174,918
+North America,United States,9/19/2020,42223,713
+North America,United States,9/20/2020,38400,250
+North America,United States,9/21/2020,51776,427
+North America,United States,9/22/2020,39562,1016
+North America,United States,9/23/2020,38846,1081
+North America,United States,9/24/2020,46815,924
+North America,United States,9/25/2020,48138,928
+North America,United States,9/26/2020,44651,755
+North America,United States,9/27/2020,37690,291
+North America,United States,9/28/2020,33034,335
+North America,United States,9/29/2020,43084,878
+North America,United States,9/30/2020,39253,946
+North America,United States,10/1/2020,45564,853
+North America,United States,10/2/2020,54739,927
+North America,United States,10/3/2020,48705,687
+North America,United States,10/4/2020,35954,357
+North America,United States,10/5/2020,39257,462
+North America,United States,10/6/2020,44937,702
+North America,United States,10/7/2020,50804,914
+North America,United States,10/8/2020,58440,968
+North America,United States,10/9/2020,56146,958
+North America,United States,10/10/2020,54977,635
+North America,United States,10/11/2020,46064,429
+North America,United States,10/12/2020,41678,352
+North America,United States,10/13/2020,52019,786
+North America,United States,10/14/2020,59558,995
+North America,United States,10/15/2020,64688,813
+North America,United States,10/16/2020,68945,903
+North America,United States,10/17/2020,56597,754
+North America,United States,10/18/2020,49483,446
+North America,United States,10/19/2020,67467,463
+North America,United States,10/20/2020,61860,918
+North America,United States,10/21/2020,63085,1162
+North America,United States,10/22/2020,76151,869
+North America,United States,10/23/2020,81539,952
+North America,United States,10/24/2020,82853,942
+North America,United States,10/25/2020,62178,393
+North America,United States,10/26/2020,67202,492
+North America,United States,10/27/2020,76586,963
+North America,United States,10/28/2020,79007,1010
+North America,United States,10/29/2020,90707,967
+North America,United States,10/30/2020,98920,1031
+North America,United States,10/31/2020,89676,892
+North America,United States,11/1/2020,104508,430
+North America,United States,11/2/2020,84058,536
+North America,United States,11/3/2020,126731,1565
+North America,United States,11/4/2020,104321,1089
+North America,United States,11/5/2020,128531,1142
+North America,United States,11/6/2020,127554,1192
+North America,United States,11/7/2020,128452,1017
+North America,United States,11/8/2020,112141,491
+North America,United States,11/9/2020,121718,693
+North America,United States,11/10/2020,139802,1382
+North America,United States,11/11/2020,146855,1427
+North America,United States,11/12/2020,162901,1173
+North America,United States,11/13/2020,179569,1169
+North America,United States,11/14/2020,169176,1273
+North America,United States,11/15/2020,136458,646
+North America,United States,11/16/2020,160081,734
+North America,United States,11/17/2020,162626,1684
+North America,United States,11/18/2020,172502,1876
+North America,United States,11/19/2020,190151,1972
+North America,United States,11/20/2020,197277,1894
+North America,United States,11/21/2020,181279,1453
+North America,United States,11/22/2020,146969,920
+North America,United States,11/23/2020,169757,921
+North America,United States,11/24/2020,174627,2124
+North America,United States,11/25/2020,183929,2284
+North America,United States,11/26/2020,114848,1249
+North America,United States,11/27/2020,204919,1428
+North America,United States,11/28/2020,156659,1217
+North America,United States,11/29/2020,141002,857
+North America,United States,11/30/2020,156283,1159
+North America,United States,12/1/2020,185272,2575
+North America,United States,12/2/2020,201756,2775
+North America,United States,12/3/2020,220269,2844
+North America,United States,12/4/2020,230668,2590
+North America,United States,12/5/2020,216929,2253
+North America,United States,12/6/2020,182288,1127
+North America,United States,12/7/2020,189814,1426
+North America,United States,12/8/2020,220385,2520
+North America,United States,12/9/2020,222293,3067
+North America,United States,12/10/2020,228542,2906
+North America,United States,12/11/2020,235152,3278
+North America,United States,12/12/2020,219949,2349
+North America,United States,12/13/2020,192126,1392
+North America,United States,12/14/2020,194627,1491
+North America,United States,12/15/2020,198391,2986
+North America,United States,12/16/2020,247335,3676
+North America,United States,12/17/2020,237762,3335
+North America,United States,12/18/2020,250204,2806
+North America,United States,12/19/2020,196100,2541
+North America,United States,12/20/2020,189498,1510
+North America,United States,12/21/2020,193531,1697
+North America,United States,12/22/2020,195568,3398
+North America,United States,12/23/2020,228098,3328
+North America,United States,12/24/2020,197750,2886
+North America,United States,12/25/2020,100557,1217
+North America,United States,12/26/2020,227253,1667
+North America,United States,12/27/2020,157189,1214
+North America,United States,12/28/2020,166659,1721
+North America,United States,12/29/2020,198522,3719
+North America,United States,12/30/2020,231992,3737
+North America,United States,12/31/2020,229703,3400
+North America,United States,1/1/2021,158005,2035
+Asia,India,1/30/2020,1,
+Asia,India,1/31/2020,0,
+Asia,India,2/1/2020,0,
+Asia,India,2/2/2020,1,
+Asia,India,2/3/2020,1,
+Asia,India,2/4/2020,0,
+Asia,India,2/5/2020,0,
+Asia,India,2/6/2020,0,
+Asia,India,2/7/2020,0,
+Asia,India,2/8/2020,0,
+Asia,India,2/9/2020,0,
+Asia,India,2/10/2020,0,
+Asia,India,2/11/2020,0,
+Asia,India,2/12/2020,0,
+Asia,India,2/13/2020,0,
+Asia,India,2/14/2020,0,
+Asia,India,2/15/2020,0,
+Asia,India,2/16/2020,0,
+Asia,India,2/17/2020,0,
+Asia,India,2/18/2020,0,
+Asia,India,2/19/2020,0,
+Asia,India,2/20/2020,0,
+Asia,India,2/21/2020,0,
+Asia,India,2/22/2020,0,
+Asia,India,2/23/2020,0,
+Asia,India,2/24/2020,0,
+Asia,India,2/25/2020,0,
+Asia,India,2/26/2020,0,
+Asia,India,2/27/2020,0,
+Asia,India,2/28/2020,0,
+Asia,India,2/29/2020,0,
+Asia,India,3/1/2020,0,
+Asia,India,3/2/2020,2,
+Asia,India,3/3/2020,0,
+Asia,India,3/4/2020,23,
+Asia,India,3/5/2020,2,
+Asia,India,3/6/2020,1,
+Asia,India,3/7/2020,3,
+Asia,India,3/8/2020,5,
+Asia,India,3/9/2020,4,
+Asia,India,3/10/2020,13,
+Asia,India,3/11/2020,6,1
+Asia,India,3/12/2020,11,0
+Asia,India,3/13/2020,9,1
+Asia,India,3/14/2020,20,0
+Asia,India,3/15/2020,11,0
+Asia,India,3/16/2020,6,0
+Asia,India,3/17/2020,23,1
+Asia,India,3/18/2020,14,0
+Asia,India,3/19/2020,38,1
+Asia,India,3/20/2020,50,1
+Asia,India,3/21/2020,86,-1
+Asia,India,3/22/2020,66,3
+Asia,India,3/23/2020,103,3
+Asia,India,3/24/2020,37,0
+Asia,India,3/25/2020,121,2
+Asia,India,3/26/2020,70,8
+Asia,India,3/27/2020,160,0
+Asia,India,3/28/2020,100,4
+Asia,India,3/29/2020,37,3
+Asia,India,3/30/2020,227,5
+Asia,India,3/31/2020,146,3
+Asia,India,4/1/2020,601,23
+Asia,India,4/2/2020,545,14
+Asia,India,4/3/2020,24,0
+Asia,India,4/4/2020,515,14
+Asia,India,4/5/2020,506,13
+Asia,India,4/6/2020,1190,37
+Asia,India,4/7/2020,533,14
+Asia,India,4/8/2020,605,28
+Asia,India,4/9/2020,809,48
+Asia,India,4/10/2020,873,20
+Asia,India,4/11/2020,848,42
+Asia,India,4/12/2020,759,43
+Asia,India,4/13/2020,1248,27
+Asia,India,4/14/2020,1034,35
+Asia,India,4/15/2020,835,12
+Asia,India,4/16/2020,1108,43
+Asia,India,4/17/2020,922,38
+Asia,India,4/18/2020,1370,35
+Asia,India,4/19/2020,1893,38
+Asia,India,4/20/2020,924,33
+Asia,India,4/21/2020,1541,53
+Asia,India,4/22/2020,1290,36
+Asia,India,4/23/2020,1707,40
+Asia,India,4/24/2020,1453,59
+Asia,India,4/25/2020,1753,45
+Asia,India,4/26/2020,1607,56
+Asia,India,4/27/2020,1561,58
+Asia,India,4/28/2020,1873,69
+Asia,India,4/29/2020,1738,71
+Asia,India,4/30/2020,1801,75
+Asia,India,5/1/2020,2394,69
+Asia,India,5/2/2020,2442,100
+Asia,India,5/3/2020,2806,68
+Asia,India,5/4/2020,3932,175
+Asia,India,5/5/2020,2963,127
+Asia,India,5/6/2020,3587,92
+Asia,India,5/7/2020,3364,104
+Asia,India,5/8/2020,3344,96
+Asia,India,5/9/2020,3113,116
+Asia,India,5/10/2020,4353,111
+Asia,India,5/11/2020,3607,82
+Asia,India,5/12/2020,3524,121
+Asia,India,5/13/2020,3763,136
+Asia,India,5/14/2020,3942,98
+Asia,India,5/15/2020,3787,104
+Asia,India,5/16/2020,4864,118
+Asia,India,5/17/2020,5050,154
+Asia,India,5/18/2020,4630,131
+Asia,India,5/19/2020,6147,146
+Asia,India,5/20/2020,5553,132
+Asia,India,5/21/2020,6198,150
+Asia,India,5/22/2020,6568,142
+Asia,India,5/23/2020,6629,142
+Asia,India,5/24/2020,7113,156
+Asia,India,5/25/2020,6414,148
+Asia,India,5/26/2020,5843,172
+Asia,India,5/27/2020,7293,190
+Asia,India,5/28/2020,7300,177
+Asia,India,5/29/2020,8105,269
+Asia,India,5/30/2020,8336,205
+Asia,India,5/31/2020,8782,223
+Asia,India,6/1/2020,7761,200
+Asia,India,6/2/2020,8821,221
+Asia,India,6/3/2020,9633,259
+Asia,India,6/4/2020,9889,275
+Asia,India,6/5/2020,9471,286
+Asia,India,6/6/2020,10438,297
+Asia,India,6/7/2020,10864,261
+Asia,India,6/8/2020,8442,266
+Asia,India,6/9/2020,10218,277
+Asia,India,6/10/2020,10459,352
+Asia,India,6/11/2020,10930,396
+Asia,India,6/12/2020,11458,386
+Asia,India,6/13/2020,11929,311
+Asia,India,6/14/2020,11502,325
+Asia,India,6/15/2020,10667,380
+Asia,India,6/16/2020,10974,2003
+Asia,India,6/17/2020,12881,334
+Asia,India,6/18/2020,13586,336
+Asia,India,6/19/2020,14516,375
+Asia,India,6/20/2020,15403,306
+Asia,India,6/21/2020,14831,445
+Asia,India,6/22/2020,14933,312
+Asia,India,6/23/2020,15968,465
+Asia,India,6/24/2020,16922,418
+Asia,India,6/25/2020,17296,407
+Asia,India,6/26/2020,18552,384
+Asia,India,6/27/2020,19906,410
+Asia,India,6/28/2020,19459,380
+Asia,India,6/29/2020,18522,418
+Asia,India,6/30/2020,18641,507
+Asia,India,7/1/2020,19160,434
+Asia,India,7/2/2020,20903,379
+Asia,India,7/3/2020,22771,442
+Asia,India,7/4/2020,24850,613
+Asia,India,7/5/2020,24248,425
+Asia,India,7/6/2020,22251,466
+Asia,India,7/7/2020,22753,483
+Asia,India,7/8/2020,24879,487
+Asia,India,7/9/2020,26506,475
+Asia,India,7/10/2020,27114,519
+Asia,India,7/11/2020,28606,550
+Asia,India,7/12/2020,28732,501
+Asia,India,7/13/2020,28498,553
+Asia,India,7/14/2020,29429,582
+Asia,India,7/15/2020,32676,605
+Asia,India,7/16/2020,34975,688
+Asia,India,7/17/2020,35252,671
+Asia,India,7/18/2020,38697,543
+Asia,India,7/19/2020,40425,681
+Asia,India,7/20/2020,37132,585
+Asia,India,7/21/2020,37740,650
+Asia,India,7/22/2020,45720,1129
+Asia,India,7/23/2020,49310,740
+Asia,India,7/24/2020,48916,757
+Asia,India,7/25/2020,48611,702
+Asia,India,7/26/2020,49981,711
+Asia,India,7/27/2020,44457,637
+Asia,India,7/28/2020,51596,785
+Asia,India,7/29/2020,50294,762
+Asia,India,7/30/2020,52783,763
+Asia,India,7/31/2020,61242,793
+Asia,India,8/1/2020,54735,853
+Asia,India,8/2/2020,52972,771
+Asia,India,8/3/2020,52050,803
+Asia,India,8/4/2020,52509,857
+Asia,India,8/5/2020,56282,904
+Asia,India,8/6/2020,62538,886
+Asia,India,8/7/2020,61537,933
+Asia,India,8/8/2020,64399,861
+Asia,India,8/9/2020,62064,1007
+Asia,India,8/10/2020,53601,871
+Asia,India,8/11/2020,60963,834
+Asia,India,8/12/2020,66999,942
+Asia,India,8/13/2020,64553,1007
+Asia,India,8/14/2020,64732,996
+Asia,India,8/15/2020,64030,944
+Asia,India,8/16/2020,57711,941
+Asia,India,8/17/2020,55018,876
+Asia,India,8/18/2020,64572,1091
+Asia,India,8/19/2020,69672,978
+Asia,India,8/20/2020,68900,983
+Asia,India,8/21/2020,69876,945
+Asia,India,8/22/2020,69239,912
+Asia,India,8/23/2020,61408,836
+Asia,India,8/24/2020,60975,848
+Asia,India,8/25/2020,57224,967
+Asia,India,8/26/2020,85687,1115
+Asia,India,8/27/2020,77266,1057
+Asia,India,8/28/2020,76472,1021
+Asia,India,8/29/2020,78761,948
+Asia,India,8/30/2020,78512,971
+Asia,India,8/31/2020,69921,819
+Asia,India,9/1/2020,78357,1045
+Asia,India,9/2/2020,83883,1043
+Asia,India,9/3/2020,83341,1096
+Asia,India,9/4/2020,86432,1089
+Asia,India,9/5/2020,90632,1065
+Asia,India,9/6/2020,90802,1016
+Asia,India,9/7/2020,75809,1133
+Asia,India,9/8/2020,89706,1115
+Asia,India,9/9/2020,95735,1172
+Asia,India,9/10/2020,96551,1209
+Asia,India,9/11/2020,97570,1201
+Asia,India,9/12/2020,94372,1114
+Asia,India,9/13/2020,92071,1136
+Asia,India,9/14/2020,83809,1054
+Asia,India,9/15/2020,90123,1290
+Asia,India,9/16/2020,97894,1132
+Asia,India,9/17/2020,96424,1174
+Asia,India,9/18/2020,93337,1247
+Asia,India,9/19/2020,92605,1133
+Asia,India,9/20/2020,86961,1130
+Asia,India,9/21/2020,75083,1053
+Asia,India,9/22/2020,83347,1085
+Asia,India,9/23/2020,86508,1129
+Asia,India,9/24/2020,86052,1141
+Asia,India,9/25/2020,85362,1089
+Asia,India,9/26/2020,88600,1124
+Asia,India,9/27/2020,82170,1039
+Asia,India,9/28/2020,70589,776
+Asia,India,9/29/2020,80472,1179
+Asia,India,9/30/2020,86821,1181
+Asia,India,10/1/2020,81484,1095
+Asia,India,10/2/2020,79476,1069
+Asia,India,10/3/2020,75829,940
+Asia,India,10/4/2020,74442,903
+Asia,India,10/5/2020,61267,884
+Asia,India,10/6/2020,72049,986
+Asia,India,10/7/2020,78524,971
+Asia,India,10/8/2020,70496,964
+Asia,India,10/9/2020,73272,926
+Asia,India,10/10/2020,74383,918
+Asia,India,10/11/2020,66732,816
+Asia,India,10/12/2020,55342,706
+Asia,India,10/13/2020,63509,730
+Asia,India,10/14/2020,67708,680
+Asia,India,10/15/2020,63371,895
+Asia,India,10/16/2020,62212,837
+Asia,India,10/17/2020,61871,1033
+Asia,India,10/18/2020,55722,579
+Asia,India,10/19/2020,46790,587
+Asia,India,10/20/2020,54044,717
+Asia,India,10/21/2020,55839,702
+Asia,India,10/22/2020,54366,690
+Asia,India,10/23/2020,53370,650
+Asia,India,10/24/2020,50129,578
+Asia,India,10/25/2020,45148,480
+Asia,India,10/26/2020,36470,488
+Asia,India,10/27/2020,43893,508
+Asia,India,10/28/2020,49881,517
+Asia,India,10/29/2020,48648,563
+Asia,India,10/30/2020,48268,551
+Asia,India,10/31/2020,46963,470
+Asia,India,11/1/2020,45231,496
+Asia,India,11/2/2020,38310,490
+Asia,India,11/3/2020,46253,514
+Asia,India,11/4/2020,50210,704
+Asia,India,11/5/2020,47638,670
+Asia,India,11/6/2020,50356,577
+Asia,India,11/7/2020,45674,559
+Asia,India,11/8/2020,45903,490
+Asia,India,11/9/2020,38073,448
+Asia,India,11/10/2020,44281,512
+Asia,India,11/11/2020,47905,550
+Asia,India,11/12/2020,44879,547
+Asia,India,11/13/2020,44684,520
+Asia,India,11/14/2020,41100,447
+Asia,India,11/15/2020,30548,435
+Asia,India,11/16/2020,29163,449
+Asia,India,11/17/2020,38617,474
+Asia,India,11/18/2020,45576,585
+Asia,India,11/19/2020,45882,584
+Asia,India,11/20/2020,46232,564
+Asia,India,11/21/2020,45209,501
+Asia,India,11/22/2020,44059,511
+Asia,India,11/23/2020,37975,480
+Asia,India,11/24/2020,44376,481
+Asia,India,11/25/2020,44489,524
+Asia,India,11/26/2020,43082,492
+Asia,India,11/27/2020,41322,485
+Asia,India,11/28/2020,41810,496
+Asia,India,11/29/2020,38772,443
+Asia,India,11/30/2020,31118,482
+Asia,India,12/1/2020,36604,501
+Asia,India,12/2/2020,35551,526
+Asia,India,12/3/2020,36595,540
+Asia,India,12/4/2020,36652,512
+Asia,India,12/5/2020,36011,482
+Asia,India,12/6/2020,32981,391
+Asia,India,12/7/2020,26567,385
+Asia,India,12/8/2020,32080,402
+Asia,India,12/9/2020,31521,412
+Asia,India,12/10/2020,29373,413
+Asia,India,12/11/2020,30031,443
+Asia,India,12/12/2020,30254,391
+Asia,India,12/13/2020,27071,336
+Asia,India,12/14/2020,22065,354
+Asia,India,12/15/2020,26382,387
+Asia,India,12/16/2020,24010,355
+Asia,India,12/17/2020,22890,338
+Asia,India,12/18/2020,25152,347
+Asia,India,12/19/2020,26624,341
+Asia,India,12/20/2020,24337,333
+Asia,India,12/21/2020,19556,301
+Asia,India,12/22/2020,23950,333
+Asia,India,12/23/2020,24712,312
+Asia,India,12/24/2020,23067,336
+Asia,India,12/25/2020,22273,251
+Asia,India,12/26/2020,18732,279
+Asia,India,12/27/2020,20021,279
+Asia,India,12/28/2020,16432,252
+Asia,India,12/29/2020,20549,286
+Asia,India,12/30/2020,21822,299
+Asia,India,12/31/2020,0,0
+Asia,India,1/1/2021,20035,256
+South America,Brazil,2/26/2020,1,
+South America,Brazil,2/27/2020,0,
+South America,Brazil,2/28/2020,0,
+South America,Brazil,2/29/2020,1,
+South America,Brazil,3/1/2020,0,
+South America,Brazil,3/2/2020,0,
+South America,Brazil,3/3/2020,0,
+South America,Brazil,3/4/2020,2,
+South America,Brazil,3/5/2020,0,
+South America,Brazil,3/6/2020,9,
+South America,Brazil,3/7/2020,0,
+South America,Brazil,3/8/2020,7,
+South America,Brazil,3/9/2020,5,
+South America,Brazil,3/10/2020,6,
+South America,Brazil,3/11/2020,7,
+South America,Brazil,3/12/2020,14,
+South America,Brazil,3/13/2020,99,
+South America,Brazil,3/14/2020,0,
+South America,Brazil,3/15/2020,11,
+South America,Brazil,3/16/2020,38,
+South America,Brazil,3/17/2020,121,1
+South America,Brazil,3/18/2020,51,2
+South America,Brazil,3/19/2020,249,3
+South America,Brazil,3/20/2020,172,5
+South America,Brazil,3/21/2020,228,4
+South America,Brazil,3/22/2020,525,10
+South America,Brazil,3/23/2020,378,9
+South America,Brazil,3/24/2020,323,12
+South America,Brazil,3/25/2020,307,13
+South America,Brazil,3/26/2020,431,18
+South America,Brazil,3/27/2020,432,15
+South America,Brazil,3/28/2020,487,19
+South America,Brazil,3/29/2020,352,25
+South America,Brazil,3/30/2020,323,23
+South America,Brazil,3/31/2020,1138,42
+South America,Brazil,4/1/2020,1119,39
+South America,Brazil,4/2/2020,1208,84
+South America,Brazil,4/3/2020,1012,35
+South America,Brazil,4/4/2020,1304,86
+South America,Brazil,4/5/2020,770,41
+South America,Brazil,4/6/2020,1031,78
+South America,Brazil,4/7/2020,1873,122
+South America,Brazil,4/8/2020,2136,133
+South America,Brazil,4/9/2020,1922,131
+South America,Brazil,4/10/2020,1546,107
+South America,Brazil,4/11/2020,1089,67
+South America,Brazil,4/12/2020,1465,99
+South America,Brazil,4/13/2020,1238,105
+South America,Brazil,4/14/2020,1832,204
+South America,Brazil,4/15/2020,3058,204
+South America,Brazil,4/16/2020,2105,188
+South America,Brazil,4/17/2020,3257,217
+South America,Brazil,4/18/2020,2976,213
+South America,Brazil,4/19/2020,1996,108
+South America,Brazil,4/20/2020,2089,125
+South America,Brazil,4/21/2020,2336,154
+South America,Brazil,4/22/2020,2678,165
+South America,Brazil,4/23/2020,4279,425
+South America,Brazil,4/24/2020,4007,373
+South America,Brazil,4/25/2020,5281,353
+South America,Brazil,4/26/2020,3776,229
+South America,Brazil,4/27/2020,4346,317
+South America,Brazil,4/28/2020,5789,480
+South America,Brazil,4/29/2020,6450,430
+South America,Brazil,4/30/2020,7502,493
+South America,Brazil,5/1/2020,5015,406
+South America,Brazil,5/2/2020,4898,349
+South America,Brazil,5/3/2020,4726,290
+South America,Brazil,5/4/2020,6794,316
+South America,Brazil,5/5/2020,6835,571
+South America,Brazil,5/6/2020,11156,650
+South America,Brazil,5/7/2020,9162,602
+South America,Brazil,5/8/2020,11121,827
+South America,Brazil,5/9/2020,9167,639
+South America,Brazil,5/10/2020,6638,467
+South America,Brazil,5/11/2020,6895,530
+South America,Brazil,5/12/2020,8620,808
+South America,Brazil,5/13/2020,11923,779
+South America,Brazil,5/14/2020,13028,759
+South America,Brazil,5/15/2020,17126,963
+South America,Brazil,5/16/2020,13220,700
+South America,Brazil,5/17/2020,7569,456
+South America,Brazil,5/18/2020,14288,735
+South America,Brazil,5/19/2020,16517,1130
+South America,Brazil,5/20/2020,19694,876
+South America,Brazil,5/21/2020,18508,1188
+South America,Brazil,5/22/2020,20803,1001
+South America,Brazil,5/23/2020,16508,965
+South America,Brazil,5/24/2020,15813,653
+South America,Brazil,5/25/2020,11687,807
+South America,Brazil,5/26/2020,16324,1039
+South America,Brazil,5/27/2020,20599,1086
+South America,Brazil,5/28/2020,26417,1156
+South America,Brazil,5/29/2020,26928,1124
+South America,Brazil,5/30/2020,33274,956
+South America,Brazil,5/31/2020,16409,480
+South America,Brazil,6/1/2020,11598,623
+South America,Brazil,6/2/2020,28936,1262
+South America,Brazil,6/3/2020,28633,1349
+South America,Brazil,6/4/2020,30925,1473
+South America,Brazil,6/5/2020,30830,1005
+South America,Brazil,6/6/2020,27075,904
+South America,Brazil,6/7/2020,18912,525
+South America,Brazil,6/8/2020,15654,679
+South America,Brazil,6/9/2020,32091,1272
+South America,Brazil,6/10/2020,32913,1274
+South America,Brazil,6/11/2020,30412,1239
+South America,Brazil,6/12/2020,25982,909
+South America,Brazil,6/13/2020,21704,892
+South America,Brazil,6/14/2020,17110,612
+South America,Brazil,6/15/2020,20647,627
+South America,Brazil,6/16/2020,34918,1282
+South America,Brazil,6/17/2020,32188,1269
+South America,Brazil,6/18/2020,22765,1238
+South America,Brazil,6/19/2020,54771,1206
+South America,Brazil,6/20/2020,34666,1022
+South America,Brazil,6/21/2020,15762,615
+South America,Brazil,6/22/2020,23129,680
+South America,Brazil,6/23/2020,39436,1374
+South America,Brazil,6/24/2020,42725,1185
+South America,Brazil,6/25/2020,39483,1141
+South America,Brazil,6/26/2020,46860,990
+South America,Brazil,6/27/2020,38693,1109
+South America,Brazil,6/28/2020,30476,552
+South America,Brazil,6/29/2020,24052,692
+South America,Brazil,6/30/2020,33846,1280
+South America,Brazil,7/1/2020,46712,1038
+South America,Brazil,7/2/2020,48105,1252
+South America,Brazil,7/3/2020,42223,1290
+South America,Brazil,7/4/2020,37923,1091
+South America,Brazil,7/5/2020,26051,602
+South America,Brazil,7/6/2020,20229,620
+South America,Brazil,7/7/2020,45305,1254
+South America,Brazil,7/8/2020,44571,1223
+South America,Brazil,7/9/2020,42619,1220
+South America,Brazil,7/10/2020,45048,1214
+South America,Brazil,7/11/2020,39023,1071
+South America,Brazil,7/12/2020,24831,631
+South America,Brazil,7/13/2020,20286,733
+South America,Brazil,7/14/2020,41857,1300
+South America,Brazil,7/15/2020,39924,1233
+South America,Brazil,7/16/2020,45403,1322
+South America,Brazil,7/17/2020,34177,1163
+South America,Brazil,7/18/2020,28532,921
+South America,Brazil,7/19/2020,23529,716
+South America,Brazil,7/20/2020,20257,632
+South America,Brazil,7/21/2020,41008,1367
+South America,Brazil,7/22/2020,67860,1284
+South America,Brazil,7/23/2020,59961,1311
+South America,Brazil,7/24/2020,55891,1156
+South America,Brazil,7/25/2020,51147,1211
+South America,Brazil,7/26/2020,24578,555
+South America,Brazil,7/27/2020,23284,614
+South America,Brazil,7/28/2020,40816,921
+South America,Brazil,7/29/2020,69074,1595
+South America,Brazil,7/30/2020,57837,1129
+South America,Brazil,7/31/2020,52383,1212
+South America,Brazil,8/1/2020,45392,1088
+South America,Brazil,8/2/2020,25800,541
+South America,Brazil,8/3/2020,16641,561
+South America,Brazil,8/4/2020,51603,1154
+South America,Brazil,8/5/2020,57152,1437
+South America,Brazil,8/6/2020,53139,1237
+South America,Brazil,8/7/2020,50230,1079
+South America,Brazil,8/8/2020,49970,905
+South America,Brazil,8/9/2020,23010,572
+South America,Brazil,8/10/2020,22048,703
+South America,Brazil,8/11/2020,52160,1274
+South America,Brazil,8/12/2020,55155,1175
+South America,Brazil,8/13/2020,60091,1262
+South America,Brazil,8/14/2020,50644,1060
+South America,Brazil,8/15/2020,41576,709
+South America,Brazil,8/16/2020,23101,620
+South America,Brazil,8/17/2020,19373,684
+South America,Brazil,8/18/2020,47784,1352
+South America,Brazil,8/19/2020,49298,1212
+South America,Brazil,8/20/2020,45323,1204
+South America,Brazil,8/21/2020,30355,1054
+South America,Brazil,8/22/2020,50032,892
+South America,Brazil,8/23/2020,23421,494
+South America,Brazil,8/24/2020,17078,565
+South America,Brazil,8/25/2020,47134,1271
+South America,Brazil,8/26/2020,47161,1085
+South America,Brazil,8/27/2020,44235,984
+South America,Brazil,8/28/2020,43412,855
+South America,Brazil,8/29/2020,41350,758
+South America,Brazil,8/30/2020,16158,566
+South America,Brazil,8/31/2020,45961,553
+South America,Brazil,9/1/2020,42659,1215
+South America,Brazil,9/2/2020,46934,1184
+South America,Brazil,9/3/2020,43773,834
+South America,Brazil,9/4/2020,50163,888
+South America,Brazil,9/5/2020,31199,701
+South America,Brazil,9/6/2020,14521,447
+South America,Brazil,9/7/2020,10273,310
+South America,Brazil,9/8/2020,14279,504
+South America,Brazil,9/9/2020,35816,1075
+South America,Brazil,9/10/2020,40557,983
+South America,Brazil,9/11/2020,43718,874
+South America,Brazil,9/12/2020,33523,814
+South America,Brazil,9/13/2020,14768,415
+South America,Brazil,9/14/2020,15155,381
+South America,Brazil,9/15/2020,36653,1113
+South America,Brazil,9/16/2020,36820,987
+South America,Brazil,9/17/2020,36303,829
+South America,Brazil,9/18/2020,39797,858
+South America,Brazil,9/19/2020,33057,739
+South America,Brazil,9/20/2020,16389,363
+South America,Brazil,9/21/2020,13411,377
+South America,Brazil,9/22/2020,33324,833
+South America,Brazil,9/23/2020,0,0
+South America,Brazil,9/24/2020,66338,1703
+South America,Brazil,9/25/2020,31911,729
+South America,Brazil,9/26/2020,28378,869
+South America,Brazil,9/27/2020,14318,335
+South America,Brazil,9/28/2020,13155,317
+South America,Brazil,9/29/2020,32058,863
+South America,Brazil,9/30/2020,33413,1031
+South America,Brazil,10/1/2020,36157,728
+South America,Brazil,10/2/2020,0,0
+South America,Brazil,10/3/2020,59741,1307
+South America,Brazil,10/4/2020,8456,365
+South America,Brazil,10/5/2020,11946,323
+South America,Brazil,10/6/2020,41906,819
+South America,Brazil,10/7/2020,31553,734
+South America,Brazil,10/8/2020,27750,729
+South America,Brazil,10/9/2020,27444,682
+South America,Brazil,10/10/2020,26749,559
+South America,Brazil,10/11/2020,12342,290
+South America,Brazil,10/12/2020,8429,201
+South America,Brazil,10/13/2020,10220,309
+South America,Brazil,10/14/2020,27235,749
+South America,Brazil,10/15/2020,28523,713
+South America,Brazil,10/16/2020,30914,754
+South America,Brazil,10/17/2020,24062,461
+South America,Brazil,10/18/2020,0,0
+South America,Brazil,10/19/2020,26365,501
+South America,Brazil,10/20/2020,23227,661
+South America,Brazil,10/21/2020,24818,566
+South America,Brazil,10/22/2020,24858,497
+South America,Brazil,10/23/2020,30026,571
+South America,Brazil,10/24/2020,26979,432
+South America,Brazil,10/25/2020,13493,231
+South America,Brazil,10/26/2020,15726,263
+South America,Brazil,10/27/2020,29787,549
+South America,Brazil,10/28/2020,28629,510
+South America,Brazil,10/29/2020,26106,513
+South America,Brazil,10/30/2020,22282,508
+South America,Brazil,10/31/2020,18947,407
+South America,Brazil,11/1/2020,10100,190
+South America,Brazil,11/2/2020,8501,179
+South America,Brazil,11/3/2020,11843,243
+South America,Brazil,11/4/2020,23976,610
+South America,Brazil,11/5/2020,0,0
+South America,Brazil,11/6/2020,41156,909
+South America,Brazil,11/7/2020,22380,254
+South America,Brazil,11/8/2020,10554,128
+South America,Brazil,11/9/2020,10917,231
+South America,Brazil,11/10/2020,23973,174
+South America,Brazil,11/11/2020,48655,566
+South America,Brazil,11/12/2020,33922,913
+South America,Brazil,11/13/2020,29070,456
+South America,Brazil,11/14/2020,38307,921
+South America,Brazil,11/15/2020,14134,140
+South America,Brazil,11/16/2020,13371,216
+South America,Brazil,11/17/2020,35294,685
+South America,Brazil,11/18/2020,34091,756
+South America,Brazil,11/19/2020,35918,606
+South America,Brazil,11/20/2020,38397,552
+South America,Brazil,11/21/2020,32622,376
+South America,Brazil,11/22/2020,18615,194
+South America,Brazil,11/23/2020,16207,302
+South America,Brazil,11/24/2020,31100,630
+South America,Brazil,11/25/2020,47898,654
+South America,Brazil,11/26/2020,37614,691
+South America,Brazil,11/27/2020,34130,514
+South America,Brazil,11/28/2020,51922,587
+South America,Brazil,11/29/2020,24468,272
+South America,Brazil,11/30/2020,21138,287
+South America,Brazil,12/1/2020,50909,697
+South America,Brazil,12/2/2020,49863,698
+South America,Brazil,12/3/2020,50434,755
+South America,Brazil,12/4/2020,46884,694
+South America,Brazil,12/5/2020,43209,664
+South America,Brazil,12/6/2020,26363,313
+South America,Brazil,12/7/2020,20371,376
+South America,Brazil,12/8/2020,51088,842
+South America,Brazil,12/9/2020,53453,836
+South America,Brazil,12/10/2020,53347,770
+South America,Brazil,12/11/2020,54428,672
+South America,Brazil,12/12/2020,43900,686
+South America,Brazil,12/13/2020,21825,279
+South America,Brazil,12/14/2020,25193,433
+South America,Brazil,12/15/2020,42889,964
+South America,Brazil,12/16/2020,70574,936
+South America,Brazil,12/17/2020,69826,1092
+South America,Brazil,12/18/2020,52544,823
+South America,Brazil,12/19/2020,50177,706
+South America,Brazil,12/20/2020,25445,408
+South America,Brazil,12/21/2020,25019,527
+South America,Brazil,12/22/2020,55202,968
+South America,Brazil,12/23/2020,46696,961
+South America,Brazil,12/24/2020,58428,762
+South America,Brazil,12/25/2020,24615,506
+South America,Brazil,12/26/2020,17246,307
+South America,Brazil,12/27/2020,18479,344
+South America,Brazil,12/28/2020,20548,431
+South America,Brazil,12/29/2020,58718,1111
+South America,Brazil,12/30/2020,55649,1194
+South America,Brazil,12/31/2020,56773,1074
+South America,Brazil,1/1/2021,24605,462
+Europe,Russia,1/31/2020,2,
+Europe,Russia,2/1/2020,0,
+Europe,Russia,2/2/2020,0,
+Europe,Russia,2/3/2020,0,
+Europe,Russia,2/4/2020,0,
+Europe,Russia,2/5/2020,0,
+Europe,Russia,2/6/2020,0,
+Europe,Russia,2/7/2020,0,
+Europe,Russia,2/8/2020,0,
+Europe,Russia,2/9/2020,0,
+Europe,Russia,2/10/2020,0,
+Europe,Russia,2/11/2020,0,
+Europe,Russia,2/12/2020,0,
+Europe,Russia,2/13/2020,0,
+Europe,Russia,2/14/2020,0,
+Europe,Russia,2/15/2020,0,
+Europe,Russia,2/16/2020,0,
+Europe,Russia,2/17/2020,0,
+Europe,Russia,2/18/2020,0,
+Europe,Russia,2/19/2020,0,
+Europe,Russia,2/20/2020,0,
+Europe,Russia,2/21/2020,0,
+Europe,Russia,2/22/2020,0,
+Europe,Russia,2/23/2020,0,
+Europe,Russia,2/24/2020,0,
+Europe,Russia,2/25/2020,0,
+Europe,Russia,2/26/2020,0,
+Europe,Russia,2/27/2020,0,
+Europe,Russia,2/28/2020,0,
+Europe,Russia,2/29/2020,0,
+Europe,Russia,3/1/2020,0,
+Europe,Russia,3/2/2020,1,
+Europe,Russia,3/3/2020,0,
+Europe,Russia,3/4/2020,0,
+Europe,Russia,3/5/2020,1,
+Europe,Russia,3/6/2020,9,
+Europe,Russia,3/7/2020,0,
+Europe,Russia,3/8/2020,4,
+Europe,Russia,3/9/2020,0,
+Europe,Russia,3/10/2020,3,
+Europe,Russia,3/11/2020,0,
+Europe,Russia,3/12/2020,8,
+Europe,Russia,3/13/2020,17,
+Europe,Russia,3/14/2020,14,
+Europe,Russia,3/15/2020,4,
+Europe,Russia,3/16/2020,27,
+Europe,Russia,3/17/2020,24,
+Europe,Russia,3/18/2020,33,
+Europe,Russia,3/19/2020,52,1
+Europe,Russia,3/20/2020,54,0
+Europe,Russia,3/21/2020,53,0
+Europe,Russia,3/22/2020,61,0
+Europe,Russia,3/23/2020,71,0
+Europe,Russia,3/24/2020,57,0
+Europe,Russia,3/25/2020,163,2
+Europe,Russia,3/26/2020,182,0
+Europe,Russia,3/27/2020,196,1
+Europe,Russia,3/28/2020,228,0
+Europe,Russia,3/29/2020,270,4
+Europe,Russia,3/30/2020,302,1
+Europe,Russia,3/31/2020,501,8
+Europe,Russia,4/1/2020,440,7
+Europe,Russia,4/2/2020,771,6
+Europe,Russia,4/3/2020,601,4
+Europe,Russia,4/4/2020,582,9
+Europe,Russia,4/5/2020,658,2
+Europe,Russia,4/6/2020,954,2
+Europe,Russia,4/7/2020,1154,11
+Europe,Russia,4/8/2020,1175,5
+Europe,Russia,4/9/2020,1459,13
+Europe,Russia,4/10/2020,1786,18
+Europe,Russia,4/11/2020,1667,12
+Europe,Russia,4/12/2020,2186,24
+Europe,Russia,4/13/2020,2558,18
+Europe,Russia,4/14/2020,2774,22
+Europe,Russia,4/15/2020,3388,28
+Europe,Russia,4/16/2020,3448,34
+Europe,Russia,4/17/2020,4070,41
+Europe,Russia,4/18/2020,4785,40
+Europe,Russia,4/19/2020,6060,48
+Europe,Russia,4/20/2020,4268,44
+Europe,Russia,4/21/2020,5642,51
+Europe,Russia,4/22/2020,5236,57
+Europe,Russia,4/23/2020,4774,42
+Europe,Russia,4/24/2020,5849,60
+Europe,Russia,4/25/2020,5966,66
+Europe,Russia,4/26/2020,6361,66
+Europe,Russia,4/27/2020,6198,47
+Europe,Russia,4/28/2020,6411,73
+Europe,Russia,4/29/2020,5841,105
+Europe,Russia,4/30/2020,7099,101
+Europe,Russia,5/1/2020,7933,96
+Europe,Russia,5/2/2020,9623,53
+Europe,Russia,5/3/2020,10633,58
+Europe,Russia,5/4/2020,10581,76
+Europe,Russia,5/5/2020,10102,95
+Europe,Russia,5/6/2020,10559,86
+Europe,Russia,5/7/2020,11231,88
+Europe,Russia,5/8/2020,10699,98
+Europe,Russia,5/9/2020,10817,104
+Europe,Russia,5/10/2020,11012,88
+Europe,Russia,5/11/2020,11656,94
+Europe,Russia,5/12/2020,10899,107
+Europe,Russia,5/13/2020,10028,96
+Europe,Russia,5/14/2020,9974,93
+Europe,Russia,5/15/2020,10598,113
+Europe,Russia,5/16/2020,9200,119
+Europe,Russia,5/17/2020,9709,94
+Europe,Russia,5/18/2020,8926,91
+Europe,Russia,5/19/2020,9263,115
+Europe,Russia,5/20/2020,8764,135
+Europe,Russia,5/21/2020,8849,127
+Europe,Russia,5/22/2020,8894,150
+Europe,Russia,5/23/2020,9434,139
+Europe,Russia,5/24/2020,8599,153
+Europe,Russia,5/25/2020,8946,92
+Europe,Russia,5/26/2020,8915,174
+Europe,Russia,5/27/2020,8338,161
+Europe,Russia,5/28/2020,8371,174
+Europe,Russia,5/29/2020,8572,232
+Europe,Russia,5/30/2020,8952,181
+Europe,Russia,5/31/2020,9268,138
+Europe,Russia,6/1/2020,8485,156
+Europe,Russia,6/2/2020,8858,182
+Europe,Russia,6/3/2020,8529,177
+Europe,Russia,6/4/2020,8823,168
+Europe,Russia,6/5/2020,8718,144
+Europe,Russia,6/6/2020,8846,197
+Europe,Russia,6/7/2020,8971,134
+Europe,Russia,6/8/2020,8970,112
+Europe,Russia,6/9/2020,8587,171
+Europe,Russia,6/10/2020,8393,216
+Europe,Russia,6/11/2020,8777,172
+Europe,Russia,6/12/2020,8961,183
+Europe,Russia,6/13/2020,8697,114
+Europe,Russia,6/14/2020,8809,119
+Europe,Russia,6/15/2020,8217,143
+Europe,Russia,6/16/2020,8241,193
+Europe,Russia,6/17/2020,7824,194
+Europe,Russia,6/18/2020,7772,182
+Europe,Russia,6/19/2020,7971,181
+Europe,Russia,6/20/2020,7870,161
+Europe,Russia,6/21/2020,7717,109
+Europe,Russia,6/22/2020,7586,95
+Europe,Russia,6/23/2020,7413,153
+Europe,Russia,6/24/2020,7165,154
+Europe,Russia,6/25/2020,7105,91
+Europe,Russia,6/26/2020,6788,176
+Europe,Russia,6/27/2020,6843,188
+Europe,Russia,6/28/2020,6784,102
+Europe,Russia,6/29/2020,6683,92
+Europe,Russia,6/30/2020,6683,154
+Europe,Russia,7/1/2020,6550,215
+Europe,Russia,7/2/2020,6752,147
+Europe,Russia,7/3/2020,6710,176
+Europe,Russia,7/4/2020,6623,167
+Europe,Russia,7/5/2020,6719,134
+Europe,Russia,7/6/2020,6569,135
+Europe,Russia,7/7/2020,6363,198
+Europe,Russia,7/8/2020,6534,172
+Europe,Russia,7/9/2020,6491,176
+Europe,Russia,7/10/2020,6623,174
+Europe,Russia,7/11/2020,6586,188
+Europe,Russia,7/12/2020,6587,130
+Europe,Russia,7/13/2020,6511,104
+Europe,Russia,7/14/2020,6240,175
+Europe,Russia,7/15/2020,6410,156
+Europe,Russia,7/16/2020,6415,167
+Europe,Russia,7/17/2020,6389,186
+Europe,Russia,7/18/2020,6214,122
+Europe,Russia,7/19/2020,6096,95
+Europe,Russia,7/20/2020,5901,85
+Europe,Russia,7/21/2020,5828,153
+Europe,Russia,7/22/2020,5850,165
+Europe,Russia,7/23/2020,5830,147
+Europe,Russia,7/24/2020,5779,153
+Europe,Russia,7/25/2020,5833,146
+Europe,Russia,7/26/2020,5741,77
+Europe,Russia,7/27/2020,5607,85
+Europe,Russia,7/28/2020,5380,149
+Europe,Russia,7/29/2020,5449,167
+Europe,Russia,7/30/2020,5484,128
+Europe,Russia,7/31/2020,5468,161
+Europe,Russia,8/1/2020,5429,95
+Europe,Russia,8/2/2020,5387,70
+Europe,Russia,8/3/2020,5364,79
+Europe,Russia,8/4/2020,5121,144
+Europe,Russia,8/5/2020,5186,138
+Europe,Russia,8/6/2020,5239,114
+Europe,Russia,8/7/2020,5191,119
+Europe,Russia,8/8/2020,5185,129
+Europe,Russia,8/9/2020,5155,76
+Europe,Russia,8/10/2020,5081,70
+Europe,Russia,8/11/2020,4892,130
+Europe,Russia,8/12/2020,5054,128
+Europe,Russia,8/13/2020,5017,122
+Europe,Russia,8/14/2020,5016,114
+Europe,Russia,8/15/2020,5030,118
+Europe,Russia,8/16/2020,4911,68
+Europe,Russia,8/17/2020,4839,54
+Europe,Russia,8/18/2020,4718,129
+Europe,Russia,8/19/2020,4790,115
+Europe,Russia,8/20/2020,4767,107
+Europe,Russia,8/21/2020,4838,90
+Europe,Russia,8/22/2020,4860,120
+Europe,Russia,8/23/2020,4797,73
+Europe,Russia,8/24/2020,4688,65
+Europe,Russia,8/25/2020,4639,118
+Europe,Russia,8/26/2020,4642,114
+Europe,Russia,8/27/2020,4675,120
+Europe,Russia,8/28/2020,4758,108
+Europe,Russia,8/29/2020,4843,111
+Europe,Russia,8/30/2020,4897,68
+Europe,Russia,8/31/2020,4932,83
+Europe,Russia,9/1/2020,4670,122
+Europe,Russia,9/2/2020,4893,115
+Europe,Russia,9/3/2020,4958,114
+Europe,Russia,9/4/2020,5064,119
+Europe,Russia,9/5/2020,5144,109
+Europe,Russia,9/6/2020,5097,61
+Europe,Russia,9/7/2020,5106,50
+Europe,Russia,9/8/2020,5020,121
+Europe,Russia,9/9/2020,5172,141
+Europe,Russia,9/10/2020,5310,127
+Europe,Russia,9/11/2020,5421,102
+Europe,Russia,9/12/2020,5406,117
+Europe,Russia,9/13/2020,5361,91
+Europe,Russia,9/14/2020,5414,56
+Europe,Russia,9/15/2020,5435,150
+Europe,Russia,9/16/2020,5612,130
+Europe,Russia,9/17/2020,5667,143
+Europe,Russia,9/18/2020,5803,132
+Europe,Russia,9/19/2020,5960,142
+Europe,Russia,9/20/2020,6043,79
+Europe,Russia,9/21/2020,6090,71
+Europe,Russia,9/22/2020,6109,155
+Europe,Russia,9/23/2020,6330,145
+Europe,Russia,9/24/2020,6489,147
+Europe,Russia,9/25/2020,7112,106
+Europe,Russia,9/26/2020,7421,167
+Europe,Russia,9/27/2020,7764,99
+Europe,Russia,9/28/2020,8026,60
+Europe,Russia,9/29/2020,8129,157
+Europe,Russia,9/30/2020,8371,174
+Europe,Russia,10/1/2020,8835,166
+Europe,Russia,10/2/2020,9294,185
+Europe,Russia,10/3/2020,9735,172
+Europe,Russia,10/4/2020,10376,107
+Europe,Russia,10/5/2020,10757,115
+Europe,Russia,10/6/2020,11481,184
+Europe,Russia,10/7/2020,10981,196
+Europe,Russia,10/8/2020,11345,184
+Europe,Russia,10/9/2020,11969,198
+Europe,Russia,10/10/2020,12673,194
+Europe,Russia,10/11/2020,13442,140
+Europe,Russia,10/12/2020,13406,123
+Europe,Russia,10/13/2020,13690,240
+Europe,Russia,10/14/2020,14041,235
+Europe,Russia,10/15/2020,13556,281
+Europe,Russia,10/16/2020,14937,230
+Europe,Russia,10/17/2020,14703,277
+Europe,Russia,10/18/2020,14804,182
+Europe,Russia,10/19/2020,15843,166
+Europe,Russia,10/20/2020,16108,268
+Europe,Russia,10/21/2020,15444,313
+Europe,Russia,10/22/2020,15704,286
+Europe,Russia,10/23/2020,17077,281
+Europe,Russia,10/24/2020,16260,294
+Europe,Russia,10/25/2020,16392,228
+Europe,Russia,10/26/2020,17148,217
+Europe,Russia,10/27/2020,16342,317
+Europe,Russia,10/28/2020,15886,343
+Europe,Russia,10/29/2020,17418,359
+Europe,Russia,10/30/2020,17987,351
+Europe,Russia,10/31/2020,17834,325
+Europe,Russia,11/1/2020,18381,239
+Europe,Russia,11/2/2020,18017,238
+Europe,Russia,11/3/2020,18431,347
+Europe,Russia,11/4/2020,19483,385
+Europe,Russia,11/5/2020,19116,289
+Europe,Russia,11/6/2020,20368,369
+Europe,Russia,11/7/2020,20109,356
+Europe,Russia,11/8/2020,20248,282
+Europe,Russia,11/9/2020,21577,254
+Europe,Russia,11/10/2020,20765,353
+Europe,Russia,11/11/2020,19583,427
+Europe,Russia,11/12/2020,21333,429
+Europe,Russia,11/13/2020,21717,401
+Europe,Russia,11/14/2020,22441,380
+Europe,Russia,11/15/2020,22313,349
+Europe,Russia,11/16/2020,22562,299
+Europe,Russia,11/17/2020,22201,435
+Europe,Russia,11/18/2020,20717,449
+Europe,Russia,11/19/2020,23337,457
+Europe,Russia,11/20/2020,24059,455
+Europe,Russia,11/21/2020,24538,462
+Europe,Russia,11/22/2020,24295,396
+Europe,Russia,11/23/2020,24891,354
+Europe,Russia,11/24/2020,24087,483
+Europe,Russia,11/25/2020,23393,498
+Europe,Russia,11/26/2020,25195,515
+Europe,Russia,11/27/2020,27267,487
+Europe,Russia,11/28/2020,26809,501
+Europe,Russia,11/29/2020,26390,451
+Europe,Russia,11/30/2020,26046,364
+Europe,Russia,12/1/2020,26126,559
+Europe,Russia,12/2/2020,25043,580
+Europe,Russia,12/3/2020,27829,543
+Europe,Russia,12/4/2020,27078,557
+Europe,Russia,12/5/2020,28450,498
+Europe,Russia,12/6/2020,28701,447
+Europe,Russia,12/7/2020,27798,447
+Europe,Russia,12/8/2020,25752,552
+Europe,Russia,12/9/2020,25838,546
+Europe,Russia,12/10/2020,27562,549
+Europe,Russia,12/11/2020,28206,601
+Europe,Russia,12/12/2020,27729,553
+Europe,Russia,12/13/2020,27651,481
+Europe,Russia,12/14/2020,26902,442
+Europe,Russia,12/15/2020,26265,564
+Europe,Russia,12/16/2020,26074,584
+Europe,Russia,12/17/2020,27787,574
+Europe,Russia,12/18/2020,28116,602
+Europe,Russia,12/19/2020,27772,574
+Europe,Russia,12/20/2020,28510,498
+Europe,Russia,12/21/2020,28917,481
+Europe,Russia,12/22/2020,28340,551
+Europe,Russia,12/23/2020,26814,536
+Europe,Russia,12/24/2020,29499,624
+Europe,Russia,12/25/2020,28595,551
+Europe,Russia,12/26/2020,28833,554
+Europe,Russia,12/27/2020,27849,541
+Europe,Russia,12/28/2020,27363,479
+Europe,Russia,12/29/2020,26588,548
+Europe,Russia,12/30/2020,26095,585
+Europe,Russia,12/31/2020,27329,579
+Europe,Russia,1/1/2021,26613,527
+Europe,France,1/24/2020,2,
+Europe,France,1/25/2020,1,
+Europe,France,1/26/2020,0,
+Europe,France,1/27/2020,0,
+Europe,France,1/28/2020,1,
+Europe,France,1/29/2020,1,
+Europe,France,1/30/2020,0,
+Europe,France,1/31/2020,0,
+Europe,France,2/1/2020,1,
+Europe,France,2/2/2020,0,
+Europe,France,2/3/2020,0,
+Europe,France,2/4/2020,0,
+Europe,France,2/5/2020,0,
+Europe,France,2/6/2020,0,
+Europe,France,2/7/2020,0,
+Europe,France,2/8/2020,5,
+Europe,France,2/9/2020,0,
+Europe,France,2/10/2020,0,
+Europe,France,2/11/2020,0,
+Europe,France,2/12/2020,0,
+Europe,France,2/13/2020,0,
+Europe,France,2/14/2020,0,
+Europe,France,2/15/2020,1,1
+Europe,France,2/16/2020,0,0
+Europe,France,2/17/2020,0,0
+Europe,France,2/18/2020,0,0
+Europe,France,2/19/2020,0,0
+Europe,France,2/20/2020,0,0
+Europe,France,2/21/2020,0,0
+Europe,France,2/22/2020,0,0
+Europe,France,2/23/2020,0,0
+Europe,France,2/24/2020,0,0
+Europe,France,2/25/2020,2,0
+Europe,France,2/26/2020,4,1
+Europe,France,2/27/2020,20,0
+Europe,France,2/28/2020,19,0
+Europe,France,2/29/2020,43,0
+Europe,France,3/1/2020,30,0
+Europe,France,3/2/2020,61,1
+Europe,France,3/3/2020,21,1
+Europe,France,3/4/2020,76,0
+Europe,France,3/5/2020,138,3
+Europe,France,3/6/2020,190,2
+Europe,France,3/7/2020,332,7
+Europe,France,3/8/2020,177,3
+Europe,France,3/9/2020,286,6
+Europe,France,3/10/2020,372,8
+Europe,France,3/11/2020,510,15
+Europe,France,3/12/2020,0,0
+Europe,France,3/13/2020,1388,31
+Europe,France,3/14/2020,815,12
+Europe,France,3/15/2020,36,0
+Europe,France,3/16/2020,2151,58
+Europe,France,3/17/2020,1032,0
+Europe,France,3/18/2020,1409,0
+Europe,France,3/19/2020,1846,95
+Europe,France,3/20/2020,1788,207
+Europe,France,3/21/2020,1705,112
+Europe,France,3/22/2020,2295,113
+Europe,France,3/23/2020,3365,186
+Europe,France,3/24/2020,2249,240
+Europe,France,3/25/2020,2962,231
+Europe,France,3/26/2020,3918,364
+Europe,France,3/27/2020,3795,299
+Europe,France,3/28/2020,4645,318
+Europe,France,3/29/2020,2603,294
+Europe,France,3/30/2020,4354,418
+Europe,France,3/31/2020,7629,500
+Europe,France,4/1/2020,4844,1252
+Europe,France,4/2/2020,2106,609
+Europe,France,4/3/2020,5224,1122
+Europe,France,4/4/2020,-17074,1053
+Europe,France,4/5/2020,855,519
+Europe,France,4/6/2020,2654,833
+Europe,France,4/7/2020,-3491,1416
+Europe,France,4/8/2020,3855,544
+Europe,France,4/9/2020,3784,1340
+Europe,France,4/10/2020,1565,985
+Europe,France,4/11/2020,1445,636
+Europe,France,4/12/2020,50746,561
+Europe,France,4/13/2020,3141,573
+Europe,France,4/14/2020,17448,743
+Europe,France,4/15/2020,3208,1438
+Europe,France,4/16/2020,12578,753
+Europe,France,4/17/2020,1891,761
+Europe,France,4/18/2020,3806,641
+Europe,France,4/19/2020,1092,389
+Europe,France,4/20/2020,2447,547
+Europe,France,4/21/2020,2666,528
+Europe,France,4/22/2020,1800,544
+Europe,France,4/23/2020,-1710,516
+Europe,France,4/24/2020,2811,390
+Europe,France,4/25/2020,1678,369
+Europe,France,4/26/2020,633,242
+Europe,France,4/27/2020,3686,437
+Europe,France,4/28/2020,3132,367
+Europe,France,4/29/2020,-1455,426
+Europe,France,4/30/2020,1218,289
+Europe,France,5/1/2020,526,217
+Europe,France,5/2/2020,792,197
+Europe,France,5/3/2020,361,135
+Europe,France,5/4/2020,562,306
+Europe,France,5/5/2020,1117,333
+Europe,France,5/6/2020,4136,275
+Europe,France,5/7/2020,741,179
+Europe,France,5/8/2020,531,242
+Europe,France,5/9/2020,529,80
+Europe,France,5/10/2020,249,70
+Europe,France,5/11/2020,314,263
+Europe,France,5/12/2020,753,348
+Europe,France,5/13/2020,521,85
+Europe,France,5/14/2020,642,351
+Europe,France,5/15/2020,513,102
+Europe,France,5/16/2020,415,98
+Europe,France,5/17/2020,140,483
+Europe,France,5/18/2020,444,129
+Europe,France,5/19/2020,501,-217
+Europe,France,5/20/2020,482,111
+Europe,France,5/21/2020,267,82
+Europe,France,5/22/2020,756,148
+Europe,France,5/23/2020,546,86
+Europe,France,5/24/2020,-439,-80
+Europe,France,5/25/2020,325,89
+Europe,France,5/26/2020,255,137
+Europe,France,5/27/2020,172,1
+Europe,France,5/28/2020,3343,67
+Europe,France,5/29/2020,594,51
+Europe,France,5/30/2020,1795,57
+Europe,France,5/31/2020,231,31
+Europe,France,6/1/2020,407,32
+Europe,France,6/2/2020,-647,106
+Europe,France,6/3/2020,-3226,81
+Europe,France,6/4/2020,4360,45
+Europe,France,6/5/2020,581,45
+Europe,France,6/6/2020,572,31
+Europe,France,6/7/2020,341,13
+Europe,France,6/8/2020,274,55
+Europe,France,6/9/2020,553,88
+Europe,France,6/10/2020,625,21
+Europe,France,6/11/2020,364,27
+Europe,France,6/12/2020,802,28
+Europe,France,6/13/2020,497,24
+Europe,France,6/14/2020,390,10
+Europe,France,6/15/2020,136,28
+Europe,France,6/16/2020,663,114
+Europe,France,6/17/2020,488,25
+Europe,France,6/18/2020,586,28
+Europe,France,6/19/2020,787,14
+Europe,France,6/20/2020,619,18
+Europe,France,6/21/2020,343,6
+Europe,France,6/22/2020,142,24
+Europe,France,6/23/2020,698,54
+Europe,France,6/24/2020,268,13
+Europe,France,6/25/2020,255,19
+Europe,France,6/26/2020,1263,26
+Europe,France,6/27/2020,448,1
+Europe,France,6/28/2020,-406,0
+Europe,France,6/29/2020,645,35
+Europe,France,6/30/2020,441,30
+Europe,France,7/1/2020,990,19
+Europe,France,7/2/2020,539,13
+Europe,France,7/3/2020,539,18
+Europe,France,7/4/2020,358,0
+Europe,France,7/5/2020,11,-1
+Europe,France,7/6/2020,1018,30
+Europe,France,7/7/2020,454,11
+Europe,France,7/8/2020,822,31
+Europe,France,7/9/2020,444,16
+Europe,France,7/10/2020,715,26
+Europe,France,7/11/2020,251,3
+Europe,France,7/12/2020,16,0
+Europe,France,7/13/2020,1423,23
+Europe,France,7/14/2020,62,2
+Europe,France,7/15/2020,727,88
+Europe,France,7/16/2020,569,17
+Europe,France,7/17/2020,829,13
+Europe,France,7/18/2020,163,3
+Europe,France,7/19/2020,4,0
+Europe,France,7/20/2020,1911,24
+Europe,France,7/21/2020,595,-13
+Europe,France,7/22/2020,921,6
+Europe,France,7/23/2020,1236,11
+Europe,France,7/24/2020,1091,10
+Europe,France,7/25/2020,88,0
+Europe,France,7/26/2020,0,0
+Europe,France,7/27/2020,2488,18
+Europe,France,7/28/2020,564,13
+Europe,France,7/29/2020,1470,14
+Europe,France,7/30/2020,1389,16
+Europe,France,7/31/2020,1308,11
+Europe,France,8/1/2020,63,0
+Europe,France,8/2/2020,3,0
+Europe,France,8/3/2020,3360,30
+Europe,France,8/4/2020,971,2
+Europe,France,8/5/2020,1708,11
+Europe,France,8/6/2020,1601,4
+Europe,France,8/7/2020,2387,13
+Europe,France,8/8/2020,70,1
+Europe,France,8/9/2020,35,0
+Europe,France,8/10/2020,4731,15
+Europe,France,8/11/2020,1414,14
+Europe,France,8/12/2020,2598,18
+Europe,France,8/13/2020,2678,17
+Europe,France,8/14/2020,2923,19
+Europe,France,8/15/2020,3210,1
+Europe,France,8/16/2020,3003,1
+Europe,France,8/17/2020,650,20
+Europe,France,8/18/2020,2119,22
+Europe,France,8/19/2020,3772,18
+Europe,France,8/20/2020,4800,11
+Europe,France,8/21/2020,5009,24
+Europe,France,8/22/2020,3474,9
+Europe,France,8/23/2020,4680,0
+Europe,France,8/24/2020,1976,16
+Europe,France,8/25/2020,3616,19
+Europe,France,8/26/2020,287,0
+Europe,France,8/27/2020,11203,35
+Europe,France,8/28/2020,7641,18
+Europe,France,8/29/2020,5460,6
+Europe,France,8/30/2020,5366,3
+Europe,France,8/31/2020,3113,31
+Europe,France,9/1/2020,5104,27
+Europe,France,9/2/2020,7113,27
+Europe,France,9/3/2020,7122,17
+Europe,France,9/4/2020,8834,-21
+Europe,France,9/5/2020,8594,12
+Europe,France,9/6/2020,7016,4
+Europe,France,9/7/2020,4266,23
+Europe,France,9/8/2020,6738,38
+Europe,France,9/9/2020,8619,32
+Europe,France,9/10/2020,9762,19
+Europe,France,9/11/2020,9509,82
+Europe,France,9/12/2020,11337,18
+Europe,France,9/13/2020,6345,5
+Europe,France,9/14/2020,6396,34
+Europe,France,9/15/2020,7826,50
+Europe,France,9/16/2020,10191,48
+Europe,France,9/17/2020,10239,47
+Europe,France,9/18/2020,13233,154
+Europe,France,9/19/2020,13560,25
+Europe,France,9/20/2020,10536,11
+Europe,France,9/21/2020,5539,53
+Europe,France,9/22/2020,10084,79
+Europe,France,9/23/2020,13291,48
+Europe,France,9/24/2020,15850,46
+Europe,France,9/25/2020,16104,151
+Europe,France,9/26/2020,14220,39
+Europe,France,9/27/2020,10635,27
+Europe,France,9/28/2020,4299,84
+Europe,France,9/29/2020,8005,73
+Europe,France,9/30/2020,14366,80
+Europe,France,10/1/2020,13051,57
+Europe,France,10/2/2020,12436,136
+Europe,France,10/3/2020,16488,25
+Europe,France,10/4/2020,12504,32
+Europe,France,10/5/2020,5639,71
+Europe,France,10/6/2020,11310,87
+Europe,France,10/7/2020,18953,80
+Europe,France,10/8/2020,17402,73
+Europe,France,10/9/2020,21088,110
+Europe,France,10/10/2020,26677,35
+Europe,France,10/11/2020,15937,46
+Europe,France,10/12/2020,9212,97
+Europe,France,10/13/2020,13626,128
+Europe,France,10/14/2020,23002,106
+Europe,France,10/15/2020,29757,85
+Europe,France,10/16/2020,25632,179
+Europe,France,10/17/2020,32104,73
+Europe,France,10/18/2020,29837,85
+Europe,France,10/19/2020,14289,148
+Europe,France,10/20/2020,20376,281
+Europe,France,10/21/2020,27422,168
+Europe,France,10/22/2020,40813,154
+Europe,France,10/23/2020,42837,300
+Europe,France,10/24/2020,45265,136
+Europe,France,10/25/2020,6616,-21
+Europe,France,10/26/2020,73010,389
+Europe,France,10/27/2020,34482,529
+Europe,France,10/28/2020,37550,259
+Europe,France,10/29/2020,46612,232
+Europe,France,10/30/2020,49474,547
+Europe,France,10/31/2020,35070,222
+Europe,France,11/1/2020,46179,231
+Europe,France,11/2/2020,106091,428
+Europe,France,11/3/2020,72601,1279
+Europe,France,11/4/2020,-46076,-31
+Europe,France,11/5/2020,57806,354
+Europe,France,11/6/2020,60952,829
+Europe,France,11/7/2020,86655,303
+Europe,France,11/8/2020,38562,270
+Europe,France,11/9/2020,21424,560
+Europe,France,11/10/2020,22613,1231
+Europe,France,11/11/2020,36406,328
+Europe,France,11/12/2020,32628,415
+Europe,France,11/13/2020,24065,933
+Europe,France,11/14/2020,31957,353
+Europe,France,11/15/2020,27192,303
+Europe,France,11/16/2020,10050,511
+Europe,France,11/17/2020,45602,1226
+Europe,France,11/18/2020,28897,431
+Europe,France,11/19/2020,20736,417
+Europe,France,11/20/2020,23264,1141
+Europe,France,11/21/2020,17670,252
+Europe,France,11/22/2020,13130,214
+Europe,France,11/23/2020,5062,506
+Europe,France,11/24/2020,9921,1011
+Europe,France,11/25/2020,16754,388
+Europe,France,11/26/2020,13001,331
+Europe,France,11/27/2020,12774,959
+Europe,France,11/28/2020,12477,212
+Europe,France,11/29/2020,9763,198
+Europe,France,11/30/2020,4354,409
+Europe,France,12/1/2020,8364,777
+Europe,France,12/2/2020,14228,311
+Europe,France,12/3/2020,12787,324
+Europe,France,12/4/2020,11511,630
+Europe,France,12/5/2020,12882,212
+Europe,France,12/6/2020,10949,174
+Europe,France,12/7/2020,3411,366
+Europe,France,12/8/2020,14037,838
+Europe,France,12/9/2020,14675,297
+Europe,France,12/10/2020,13872,296
+Europe,France,12/11/2020,13489,628
+Europe,France,12/12/2020,0,-1
+Europe,France,12/13/2020,25480,344
+Europe,France,12/14/2020,3192,376
+Europe,France,12/15/2020,11655,791
+Europe,France,12/16/2020,17720,290
+Europe,France,12/17/2020,18398,261
+Europe,France,12/18/2020,16005,612
+Europe,France,12/19/2020,17428,189
+Europe,France,12/20/2020,12799,131
+Europe,France,12/21/2020,5960,354
+Europe,France,12/22/2020,11861,802
+Europe,France,12/23/2020,15038,277
+Europe,France,12/24/2020,21718,291
+Europe,France,12/25/2020,20262,159
+Europe,France,12/26/2020,3093,146
+Europe,France,12/27/2020,8822,173
+Europe,France,12/28/2020,3106,368
+Europe,France,12/29/2020,11494,969
+Europe,France,12/30/2020,26514,304
+Europe,France,12/31/2020,20042,251
+Europe,France,1/1/2021,19348,133
+Europe,United Kingdom,1/31/2020,2,
+Europe,United Kingdom,2/1/2020,0,
+Europe,United Kingdom,2/2/2020,0,
+Europe,United Kingdom,2/3/2020,6,
+Europe,United Kingdom,2/4/2020,0,
+Europe,United Kingdom,2/5/2020,1,
+Europe,United Kingdom,2/6/2020,0,
+Europe,United Kingdom,2/7/2020,0,
+Europe,United Kingdom,2/8/2020,4,
+Europe,United Kingdom,2/9/2020,1,
+Europe,United Kingdom,2/10/2020,0,
+Europe,United Kingdom,2/11/2020,1,
+Europe,United Kingdom,2/12/2020,1,
+Europe,United Kingdom,2/13/2020,1,
+Europe,United Kingdom,2/14/2020,1,
+Europe,United Kingdom,2/15/2020,0,
+Europe,United Kingdom,2/16/2020,0,
+Europe,United Kingdom,2/17/2020,1,
+Europe,United Kingdom,2/18/2020,0,
+Europe,United Kingdom,2/19/2020,1,
+Europe,United Kingdom,2/20/2020,2,
+Europe,United Kingdom,2/21/2020,1,
+Europe,United Kingdom,2/22/2020,0,
+Europe,United Kingdom,2/23/2020,5,
+Europe,United Kingdom,2/24/2020,2,
+Europe,United Kingdom,2/25/2020,4,
+Europe,United Kingdom,2/26/2020,3,
+Europe,United Kingdom,2/27/2020,7,
+Europe,United Kingdom,2/28/2020,12,
+Europe,United Kingdom,2/29/2020,5,
+Europe,United Kingdom,3/1/2020,33,
+Europe,United Kingdom,3/2/2020,40,
+Europe,United Kingdom,3/3/2020,55,
+Europe,United Kingdom,3/4/2020,57,
+Europe,United Kingdom,3/5/2020,49,
+Europe,United Kingdom,3/6/2020,79,1
+Europe,United Kingdom,3/7/2020,55,1
+Europe,United Kingdom,3/8/2020,54,0
+Europe,United Kingdom,3/9/2020,147,1
+Europe,United Kingdom,3/10/2020,259,4
+Europe,United Kingdom,3/11/2020,412,0
+Europe,United Kingdom,3/12/2020,489,2
+Europe,United Kingdom,3/13/2020,480,1
+Europe,United Kingdom,3/14/2020,364,19
+Europe,United Kingdom,3/15/2020,443,14
+Europe,United Kingdom,3/16/2020,615,23
+Europe,United Kingdom,3/17/2020,770,17
+Europe,United Kingdom,3/18/2020,1005,34
+Europe,United Kingdom,3/19/2020,1066,46
+Europe,United Kingdom,3/20/2020,1258,32
+Europe,United Kingdom,3/21/2020,1215,58
+Europe,United Kingdom,3/22/2020,1389,36
+Europe,United Kingdom,3/23/2020,2349,76
+Europe,United Kingdom,3/24/2020,2382,148
+Europe,United Kingdom,3/25/2020,2717,191
+Europe,United Kingdom,3/26/2020,3127,182
+Europe,United Kingdom,3/27/2020,3249,288
+Europe,United Kingdom,3/28/2020,2843,292
+Europe,United Kingdom,3/29/2020,2892,213
+Europe,United Kingdom,3/30/2020,4327,374
+Europe,United Kingdom,3/31/2020,4534,404
+Europe,United Kingdom,4/1/2020,4974,673
+Europe,United Kingdom,4/2/2020,4929,657
+Europe,United Kingdom,4/3/2020,4981,737
+Europe,United Kingdom,4/4/2020,4073,757
+Europe,United Kingdom,4/5/2020,3650,601
+Europe,United Kingdom,4/6/2020,5316,570
+Europe,United Kingdom,4/7/2020,5486,1105
+Europe,United Kingdom,4/8/2020,5163,1032
+Europe,United Kingdom,4/9/2020,4906,1117
+Europe,United Kingdom,4/10/2020,4367,1123
+Europe,United Kingdom,4/11/2020,3613,844
+Europe,United Kingdom,4/12/2020,3539,657
+Europe,United Kingdom,4/13/2020,4205,725
+Europe,United Kingdom,4/14/2020,4348,1080
+Europe,United Kingdom,4/15/2020,5100,884
+Europe,United Kingdom,4/16/2020,5343,1040
+Europe,United Kingdom,4/17/2020,4990,914
+Europe,United Kingdom,4/18/2020,4736,1108
+Europe,United Kingdom,4/19/2020,3860,433
+Europe,United Kingdom,4/20/2020,4866,576
+Europe,United Kingdom,4/21/2020,4775,1224
+Europe,United Kingdom,4/22/2020,5505,857
+Europe,United Kingdom,4/23/2020,5168,684
+Europe,United Kingdom,4/24/2020,4981,1018
+Europe,United Kingdom,4/25/2020,3764,816
+Europe,United Kingdom,4/26/2020,3473,364
+Europe,United Kingdom,4/27/2020,4704,323
+Europe,United Kingdom,4/28/2020,4727,971
+Europe,United Kingdom,4/29/2020,5450,771
+Europe,United Kingdom,4/30/2020,4964,636
+Europe,United Kingdom,5/1/2020,4730,700
+Europe,United Kingdom,5/2/2020,3230,585
+Europe,United Kingdom,5/3/2020,2977,253
+Europe,United Kingdom,5/4/2020,3383,273
+Europe,United Kingdom,5/5/2020,3689,725
+Europe,United Kingdom,5/6/2020,3836,647
+Europe,United Kingdom,5/7/2020,3771,458
+Europe,United Kingdom,5/8/2020,3052,580
+Europe,United Kingdom,5/9/2020,2150,275
+Europe,United Kingdom,5/10/2020,2322,217
+Europe,United Kingdom,5/11/2020,3589,188
+Europe,United Kingdom,5/12/2020,3395,615
+Europe,United Kingdom,5/13/2020,3300,448
+Europe,United Kingdom,5/14/2020,2618,353
+Europe,United Kingdom,5/15/2020,2521,351
+Europe,United Kingdom,5/16/2020,2072,411
+Europe,United Kingdom,5/17/2020,1826,67
+Europe,United Kingdom,5/18/2020,2577,146
+Europe,United Kingdom,5/19/2020,3058,501
+Europe,United Kingdom,5/20/2020,2712,329
+Europe,United Kingdom,5/21/2020,2554,273
+Europe,United Kingdom,5/22/2020,2041,291
+Europe,United Kingdom,5/23/2020,1508,220
+Europe,United Kingdom,5/24/2020,1355,379
+Europe,United Kingdom,5/25/2020,1613,104
+Europe,United Kingdom,5/26/2020,1659,131
+Europe,United Kingdom,5/27/2020,1809,422
+Europe,United Kingdom,5/28/2020,1736,343
+Europe,United Kingdom,5/29/2020,1508,274
+Europe,United Kingdom,5/30/2020,1107,154
+Europe,United Kingdom,5/31/2020,1070,60
+Europe,United Kingdom,6/1/2020,1444,86
+Europe,United Kingdom,6/2/2020,1470,250
+Europe,United Kingdom,6/3/2020,1349,254
+Europe,United Kingdom,6/4/2020,1238,130
+Europe,United Kingdom,6/5/2020,1110,258
+Europe,United Kingdom,6/6/2020,794,143
+Europe,United Kingdom,6/7/2020,718,54
+Europe,United Kingdom,6/8/2020,1094,47
+Europe,United Kingdom,6/9/2020,1159,197
+Europe,United Kingdom,6/10/2020,1186,164
+Europe,United Kingdom,6/11/2020,1007,76
+Europe,United Kingdom,6/12/2020,1054,131
+Europe,United Kingdom,6/13/2020,888,107
+Europe,United Kingdom,6/14/2020,807,27
+Europe,United Kingdom,6/15/2020,1031,29
+Europe,United Kingdom,6/16/2020,1083,120
+Europe,United Kingdom,6/17/2020,999,110
+Europe,United Kingdom,6/18/2020,1020,67
+Europe,United Kingdom,6/19/2020,984,84
+Europe,United Kingdom,6/20/2020,666,71
+Europe,United Kingdom,6/21/2020,624,31
+Europe,United Kingdom,6/22/2020,892,13
+Europe,United Kingdom,6/23/2020,882,94
+Europe,United Kingdom,6/24/2020,777,87
+Europe,United Kingdom,6/25/2020,697,99
+Europe,United Kingdom,6/26/2020,639,77
+Europe,United Kingdom,6/27/2020,634,40
+Europe,United Kingdom,6/28/2020,407,31
+Europe,United Kingdom,6/29/2020,620,21
+Europe,United Kingdom,6/30/2020,404,54
+Europe,United Kingdom,7/1/2020,63,97
+Europe,United Kingdom,7/2/2020,6,41
+Europe,United Kingdom,7/3/2020,502,49
+Europe,United Kingdom,7/4/2020,625,32
+Europe,United Kingdom,7/5/2020,519,19
+Europe,United Kingdom,7/6/2020,359,11
+Europe,United Kingdom,7/7/2020,584,54
+Europe,United Kingdom,7/8/2020,637,57
+Europe,United Kingdom,7/9/2020,643,31
+Europe,United Kingdom,7/10/2020,524,34
+Europe,United Kingdom,7/11/2020,826,17
+Europe,United Kingdom,7/12/2020,650,9
+Europe,United Kingdom,7/13/2020,537,10
+Europe,United Kingdom,7/14/2020,1240,44
+Europe,United Kingdom,7/15/2020,538,26
+Europe,United Kingdom,7/16/2020,647,24
+Europe,United Kingdom,7/17/2020,687,26
+Europe,United Kingdom,7/18/2020,829,9
+Europe,United Kingdom,7/19/2020,726,11
+Europe,United Kingdom,7/20/2020,586,10
+Europe,United Kingdom,7/21/2020,445,25
+Europe,United Kingdom,7/22/2020,563,17
+Europe,United Kingdom,7/23/2020,779,9
+Europe,United Kingdom,7/24/2020,769,32
+Europe,United Kingdom,7/25/2020,770,15
+Europe,United Kingdom,7/26/2020,750,8
+Europe,United Kingdom,7/27/2020,688,3
+Europe,United Kingdom,7/28/2020,553,21
+Europe,United Kingdom,7/29/2020,802,34
+Europe,United Kingdom,7/30/2020,847,0
+Europe,United Kingdom,7/31/2020,883,20
+Europe,United Kingdom,8/1/2020,769,13
+Europe,United Kingdom,8/2/2020,747,5
+Europe,United Kingdom,8/3/2020,942,1
+Europe,United Kingdom,8/4/2020,675,18
+Europe,United Kingdom,8/5/2020,906,14
+Europe,United Kingdom,8/6/2020,964,18
+Europe,United Kingdom,8/7/2020,900,12
+Europe,United Kingdom,8/8/2020,765,3
+Europe,United Kingdom,8/9/2020,1113,5
+Europe,United Kingdom,8/10/2020,818,18
+Europe,United Kingdom,8/11/2020,1150,13
+Europe,United Kingdom,8/12/2020,1039,20
+Europe,United Kingdom,8/13/2020,1148,18
+Europe,United Kingdom,8/14/2020,1461,11
+Europe,United Kingdom,8/15/2020,1042,3
+Europe,United Kingdom,8/16/2020,1111,5
+Europe,United Kingdom,8/17/2020,721,3
+Europe,United Kingdom,8/18/2020,1113,12
+Europe,United Kingdom,8/19/2020,831,17
+Europe,United Kingdom,8/20/2020,1195,6
+Europe,United Kingdom,8/21/2020,1060,2
+Europe,United Kingdom,8/22/2020,1332,18
+Europe,United Kingdom,8/23/2020,1048,6
+Europe,United Kingdom,8/24/2020,977,4
+Europe,United Kingdom,8/25/2020,1201,16
+Europe,United Kingdom,8/26/2020,1146,17
+Europe,United Kingdom,8/27/2020,1542,12
+Europe,United Kingdom,8/28/2020,1297,9
+Europe,United Kingdom,8/29/2020,1110,12
+Europe,United Kingdom,8/30/2020,1752,1
+Europe,United Kingdom,8/31/2020,1415,3
+Europe,United Kingdom,9/1/2020,1332,3
+Europe,United Kingdom,9/2/2020,1514,10
+Europe,United Kingdom,9/3/2020,1779,14
+Europe,United Kingdom,9/4/2020,1978,10
+Europe,United Kingdom,9/5/2020,1827,12
+Europe,United Kingdom,9/6/2020,2987,2
+Europe,United Kingdom,9/7/2020,2951,3
+Europe,United Kingdom,9/8/2020,2481,32
+Europe,United Kingdom,9/9/2020,2681,8
+Europe,United Kingdom,9/10/2020,2931,14
+Europe,United Kingdom,9/11/2020,3544,6
+Europe,United Kingdom,9/12/2020,3504,9
+Europe,United Kingdom,9/13/2020,3338,5
+Europe,United Kingdom,9/14/2020,2625,9
+Europe,United Kingdom,9/15/2020,3115,27
+Europe,United Kingdom,9/16/2020,4007,20
+Europe,United Kingdom,9/17/2020,3410,21
+Europe,United Kingdom,9/18/2020,4329,27
+Europe,United Kingdom,9/19/2020,4429,27
+Europe,United Kingdom,9/20/2020,3899,18
+Europe,United Kingdom,9/21/2020,4378,11
+Europe,United Kingdom,9/22/2020,4936,37
+Europe,United Kingdom,9/23/2020,6187,37
+Europe,United Kingdom,9/24/2020,6644,40
+Europe,United Kingdom,9/25/2020,6878,34
+Europe,United Kingdom,9/26/2020,6050,35
+Europe,United Kingdom,9/27/2020,5700,17
+Europe,United Kingdom,9/28/2020,4056,13
+Europe,United Kingdom,9/29/2020,7156,72
+Europe,United Kingdom,9/30/2020,7117,71
+Europe,United Kingdom,10/1/2020,6929,59
+Europe,United Kingdom,10/2/2020,6994,66
+Europe,United Kingdom,10/3/2020,12885,49
+Europe,United Kingdom,10/4/2020,22965,33
+Europe,United Kingdom,10/5/2020,12603,19
+Europe,United Kingdom,10/6/2020,14557,76
+Europe,United Kingdom,10/7/2020,14173,70
+Europe,United Kingdom,10/8/2020,17550,77
+Europe,United Kingdom,10/9/2020,13888,87
+Europe,United Kingdom,10/10/2020,15175,81
+Europe,United Kingdom,10/11/2020,12882,65
+Europe,United Kingdom,10/12/2020,14011,50
+Europe,United Kingdom,10/13/2020,17250,143
+Europe,United Kingdom,10/14/2020,19751,137
+Europe,United Kingdom,10/15/2020,18996,138
+Europe,United Kingdom,10/16/2020,15657,136
+Europe,United Kingdom,10/17/2020,16186,150
+Europe,United Kingdom,10/18/2020,16994,67
+Europe,United Kingdom,10/19/2020,18830,80
+Europe,United Kingdom,10/20/2020,21365,241
+Europe,United Kingdom,10/21/2020,26707,191
+Europe,United Kingdom,10/22/2020,21257,189
+Europe,United Kingdom,10/23/2020,20559,224
+Europe,United Kingdom,10/24/2020,23033,174
+Europe,United Kingdom,10/25/2020,19797,151
+Europe,United Kingdom,10/26/2020,20900,102
+Europe,United Kingdom,10/27/2020,22924,367
+Europe,United Kingdom,10/28/2020,24714,310
+Europe,United Kingdom,10/29/2020,23078,280
+Europe,United Kingdom,10/30/2020,24418,274
+Europe,United Kingdom,10/31/2020,21919,326
+Europe,United Kingdom,11/1/2020,23261,162
+Europe,United Kingdom,11/2/2020,18967,136
+Europe,United Kingdom,11/3/2020,20078,397
+Europe,United Kingdom,11/4/2020,25206,492
+Europe,United Kingdom,11/5/2020,24164,378
+Europe,United Kingdom,11/6/2020,23322,355
+Europe,United Kingdom,11/7/2020,24979,413
+Europe,United Kingdom,11/8/2020,20580,156
+Europe,United Kingdom,11/9/2020,21397,195
+Europe,United Kingdom,11/10/2020,20451,532
+Europe,United Kingdom,11/11/2020,23000,596
+Europe,United Kingdom,11/12/2020,33517,563
+Europe,United Kingdom,11/13/2020,27316,376
+Europe,United Kingdom,11/14/2020,26876,462
+Europe,United Kingdom,11/15/2020,24977,168
+Europe,United Kingdom,11/16/2020,21415,214
+Europe,United Kingdom,11/17/2020,20060,599
+Europe,United Kingdom,11/18/2020,19645,529
+Europe,United Kingdom,11/19/2020,22936,502
+Europe,United Kingdom,11/20/2020,20274,511
+Europe,United Kingdom,11/21/2020,19921,340
+Europe,United Kingdom,11/22/2020,18667,399
+Europe,United Kingdom,11/23/2020,15465,207
+Europe,United Kingdom,11/24/2020,11344,608
+Europe,United Kingdom,11/25/2020,18261,695
+Europe,United Kingdom,11/26/2020,17557,498
+Europe,United Kingdom,11/27/2020,14821,520
+Europe,United Kingdom,11/28/2020,15891,479
+Europe,United Kingdom,11/29/2020,12164,215
+Europe,United Kingdom,11/30/2020,12428,203
+Europe,United Kingdom,12/1/2020,13497,603
+Europe,United Kingdom,12/2/2020,16237,648
+Europe,United Kingdom,12/3/2020,14951,414
+Europe,United Kingdom,12/4/2020,16382,504
+Europe,United Kingdom,12/5/2020,15579,397
+Europe,United Kingdom,12/6/2020,17372,231
+Europe,United Kingdom,12/7/2020,14774,189
+Europe,United Kingdom,12/8/2020,12386,599
+Europe,United Kingdom,12/9/2020,16634,533
+Europe,United Kingdom,12/10/2020,21066,516
+Europe,United Kingdom,12/11/2020,21784,424
+Europe,United Kingdom,12/12/2020,21554,520
+Europe,United Kingdom,12/13/2020,18541,144
+Europe,United Kingdom,12/14/2020,20377,233
+Europe,United Kingdom,12/15/2020,18569,506
+Europe,United Kingdom,12/16/2020,25300,612
+Europe,United Kingdom,12/17/2020,35532,532
+Europe,United Kingdom,12/18/2020,28560,490
+Europe,United Kingdom,12/19/2020,27249,537
+Europe,United Kingdom,12/20/2020,36084,326
+Europe,United Kingdom,12/21/2020,33517,215
+Europe,United Kingdom,12/22/2020,36931,691
+Europe,United Kingdom,12/23/2020,39387,748
+Europe,United Kingdom,12/24/2020,39148,575
+Europe,United Kingdom,12/25/2020,32803,570
+Europe,United Kingdom,12/26/2020,34788,211
+Europe,United Kingdom,12/27/2020,32493,347
+Europe,United Kingdom,12/28/2020,41460,357
+Europe,United Kingdom,12/29/2020,53275,458
+Europe,United Kingdom,12/30/2020,50239,982
+Europe,United Kingdom,12/31/2020,56029,965
+Europe,United Kingdom,1/1/2021,53458,615
+Asia,Turkey,3/11/2020,1,
+Asia,Turkey,3/12/2020,0,
+Asia,Turkey,3/13/2020,4,
+Asia,Turkey,3/14/2020,0,
+Asia,Turkey,3/15/2020,1,
+Asia,Turkey,3/16/2020,12,
+Asia,Turkey,3/17/2020,29,1
+Asia,Turkey,3/18/2020,51,0
+Asia,Turkey,3/19/2020,94,2
+Asia,Turkey,3/20/2020,167,1
+Asia,Turkey,3/21/2020,311,5
+Asia,Turkey,3/22/2020,566,21
+Asia,Turkey,3/23/2020,293,7
+Asia,Turkey,3/24/2020,343,7
+Asia,Turkey,3/25/2020,561,15
+Asia,Turkey,3/26/2020,1196,16
+Asia,Turkey,3/27/2020,2069,17
+Asia,Turkey,3/28/2020,1704,16
+Asia,Turkey,3/29/2020,1815,23
+Asia,Turkey,3/30/2020,1610,37
+Asia,Turkey,3/31/2020,2704,46
+Asia,Turkey,4/1/2020,2148,63
+Asia,Turkey,4/2/2020,2456,79
+Asia,Turkey,4/3/2020,2786,69
+Asia,Turkey,4/4/2020,3013,76
+Asia,Turkey,4/5/2020,3135,73
+Asia,Turkey,4/6/2020,3148,75
+Asia,Turkey,4/7/2020,3892,76
+Asia,Turkey,4/8/2020,4117,87
+Asia,Turkey,4/9/2020,4056,96
+Asia,Turkey,4/10/2020,4747,98
+Asia,Turkey,4/11/2020,5138,95
+Asia,Turkey,4/12/2020,4789,97
+Asia,Turkey,4/13/2020,4093,98
+Asia,Turkey,4/14/2020,4062,107
+Asia,Turkey,4/15/2020,4281,115
+Asia,Turkey,4/16/2020,4801,125
+Asia,Turkey,4/17/2020,4353,126
+Asia,Turkey,4/18/2020,3783,121
+Asia,Turkey,4/19/2020,3977,127
+Asia,Turkey,4/20/2020,4674,123
+Asia,Turkey,4/21/2020,4611,119
+Asia,Turkey,4/22/2020,3083,117
+Asia,Turkey,4/23/2020,3116,115
+Asia,Turkey,4/24/2020,3122,109
+Asia,Turkey,4/25/2020,2861,106
+Asia,Turkey,4/26/2020,2357,99
+Asia,Turkey,4/27/2020,2131,95
+Asia,Turkey,4/28/2020,2392,92
+Asia,Turkey,4/29/2020,2936,89
+Asia,Turkey,4/30/2020,2615,93
+Asia,Turkey,5/1/2020,2188,84
+Asia,Turkey,5/2/2020,1983,78
+Asia,Turkey,5/3/2020,1670,61
+Asia,Turkey,5/4/2020,1614,64
+Asia,Turkey,5/5/2020,1832,59
+Asia,Turkey,5/6/2020,2253,64
+Asia,Turkey,5/7/2020,1977,57
+Asia,Turkey,5/8/2020,1848,48
+Asia,Turkey,5/9/2020,1546,50
+Asia,Turkey,5/10/2020,1542,47
+Asia,Turkey,5/11/2020,1114,55
+Asia,Turkey,5/12/2020,1704,53
+Asia,Turkey,5/13/2020,1639,58
+Asia,Turkey,5/14/2020,1635,55
+Asia,Turkey,5/15/2020,1708,48
+Asia,Turkey,5/16/2020,1610,41
+Asia,Turkey,5/17/2020,1368,44
+Asia,Turkey,5/18/2020,1158,31
+Asia,Turkey,5/19/2020,1022,28
+Asia,Turkey,5/20/2020,972,23
+Asia,Turkey,5/21/2020,961,27
+Asia,Turkey,5/22/2020,952,27
+Asia,Turkey,5/23/2020,1186,32
+Asia,Turkey,5/24/2020,1141,32
+Asia,Turkey,5/25/2020,987,29
+Asia,Turkey,5/26/2020,948,28
+Asia,Turkey,5/27/2020,1035,34
+Asia,Turkey,5/28/2020,1182,30
+Asia,Turkey,5/29/2020,1141,28
+Asia,Turkey,5/30/2020,983,26
+Asia,Turkey,5/31/2020,839,25
+Asia,Turkey,6/1/2020,827,23
+Asia,Turkey,6/2/2020,786,22
+Asia,Turkey,6/3/2020,867,24
+Asia,Turkey,6/4/2020,988,21
+Asia,Turkey,6/5/2020,930,18
+Asia,Turkey,6/6/2020,878,21
+Asia,Turkey,6/7/2020,914,23
+Asia,Turkey,6/8/2020,989,19
+Asia,Turkey,6/9/2020,993,18
+Asia,Turkey,6/10/2020,922,17
+Asia,Turkey,6/11/2020,987,17
+Asia,Turkey,6/12/2020,1195,15
+Asia,Turkey,6/13/2020,1459,14
+Asia,Turkey,6/14/2020,1562,15
+Asia,Turkey,6/15/2020,1592,18
+Asia,Turkey,6/16/2020,1467,17
+Asia,Turkey,6/17/2020,1429,19
+Asia,Turkey,6/18/2020,1304,21
+Asia,Turkey,6/19/2020,1214,23
+Asia,Turkey,6/20/2020,1248,22
+Asia,Turkey,6/21/2020,1192,23
+Asia,Turkey,6/22/2020,1212,24
+Asia,Turkey,6/23/2020,1268,27
+Asia,Turkey,6/24/2020,1492,24
+Asia,Turkey,6/25/2020,1458,21
+Asia,Turkey,6/26/2020,1396,19
+Asia,Turkey,6/27/2020,1372,17
+Asia,Turkey,6/28/2020,1356,15
+Asia,Turkey,6/29/2020,1374,18
+Asia,Turkey,6/30/2020,1293,16
+Asia,Turkey,7/1/2020,1192,19
+Asia,Turkey,7/2/2020,1186,17
+Asia,Turkey,7/3/2020,1172,19
+Asia,Turkey,7/4/2020,1154,20
+Asia,Turkey,7/5/2020,1148,19
+Asia,Turkey,7/6/2020,1086,16
+Asia,Turkey,7/7/2020,1053,19
+Asia,Turkey,7/8/2020,1041,22
+Asia,Turkey,7/9/2020,1024,18
+Asia,Turkey,7/10/2020,1003,23
+Asia,Turkey,7/11/2020,1016,21
+Asia,Turkey,7/12/2020,1012,19
+Asia,Turkey,7/13/2020,1008,19
+Asia,Turkey,7/14/2020,992,20
+Asia,Turkey,7/15/2020,947,17
+Asia,Turkey,7/16/2020,933,21
+Asia,Turkey,7/17/2020,926,18
+Asia,Turkey,7/18/2020,918,17
+Asia,Turkey,7/19/2020,924,16
+Asia,Turkey,7/20/2020,931,17
+Asia,Turkey,7/21/2020,928,18
+Asia,Turkey,7/22/2020,902,19
+Asia,Turkey,7/23/2020,913,18
+Asia,Turkey,7/24/2020,937,17
+Asia,Turkey,7/25/2020,921,16
+Asia,Turkey,7/26/2020,927,17
+Asia,Turkey,7/27/2020,919,17
+Asia,Turkey,7/28/2020,963,15
+Asia,Turkey,7/29/2020,942,14
+Asia,Turkey,7/30/2020,967,15
+Asia,Turkey,7/31/2020,982,17
+Asia,Turkey,8/1/2020,996,19
+Asia,Turkey,8/2/2020,987,18
+Asia,Turkey,8/3/2020,995,19
+Asia,Turkey,8/4/2020,1083,18
+Asia,Turkey,8/5/2020,1178,19
+Asia,Turkey,8/6/2020,1153,14
+Asia,Turkey,8/7/2020,1185,15
+Asia,Turkey,8/8/2020,1172,16
+Asia,Turkey,8/9/2020,1182,15
+Asia,Turkey,8/10/2020,1193,14
+Asia,Turkey,8/11/2020,1183,15
+Asia,Turkey,8/12/2020,1212,18
+Asia,Turkey,8/13/2020,1243,21
+Asia,Turkey,8/14/2020,1226,22
+Asia,Turkey,8/15/2020,1256,21
+Asia,Turkey,8/16/2020,1192,19
+Asia,Turkey,8/17/2020,1233,22
+Asia,Turkey,8/18/2020,1263,20
+Asia,Turkey,8/19/2020,1303,23
+Asia,Turkey,8/20/2020,1412,19
+Asia,Turkey,8/21/2020,1203,22
+Asia,Turkey,8/22/2020,1309,22
+Asia,Turkey,8/23/2020,1217,19
+Asia,Turkey,8/24/2020,1443,18
+Asia,Turkey,8/25/2020,1502,24
+Asia,Turkey,8/26/2020,1313,20
+Asia,Turkey,8/27/2020,1491,26
+Asia,Turkey,8/28/2020,1517,36
+Asia,Turkey,8/29/2020,1549,39
+Asia,Turkey,8/30/2020,1482,42
+Asia,Turkey,8/31/2020,1587,44
+Asia,Turkey,9/1/2020,1572,47
+Asia,Turkey,9/2/2020,1596,45
+Asia,Turkey,9/3/2020,1642,49
+Asia,Turkey,9/4/2020,1612,53
+Asia,Turkey,9/5/2020,1673,56
+Asia,Turkey,9/6/2020,1578,53
+Asia,Turkey,9/7/2020,1703,57
+Asia,Turkey,9/8/2020,1761,52
+Asia,Turkey,9/9/2020,1673,55
+Asia,Turkey,9/10/2020,1512,58
+Asia,Turkey,9/11/2020,1671,56
+Asia,Turkey,9/12/2020,1509,48
+Asia,Turkey,9/13/2020,1527,57
+Asia,Turkey,9/14/2020,1716,63
+Asia,Turkey,9/15/2020,1742,67
+Asia,Turkey,9/16/2020,1771,63
+Asia,Turkey,9/17/2020,1648,66
+Asia,Turkey,9/18/2020,1771,62
+Asia,Turkey,9/19/2020,1538,68
+Asia,Turkey,9/20/2020,1519,61
+Asia,Turkey,9/21/2020,1743,68
+Asia,Turkey,9/22/2020,1692,65
+Asia,Turkey,9/23/2020,1767,72
+Asia,Turkey,9/24/2020,1721,74
+Asia,Turkey,9/25/2020,1665,73
+Asia,Turkey,9/26/2020,1511,71
+Asia,Turkey,9/27/2020,1467,68
+Asia,Turkey,9/28/2020,1412,65
+Asia,Turkey,9/29/2020,1427,68
+Asia,Turkey,9/30/2020,1391,65
+Asia,Turkey,10/1/2020,1407,67
+Asia,Turkey,10/2/2020,1442,63
+Asia,Turkey,10/3/2020,1502,59
+Asia,Turkey,10/4/2020,1429,57
+Asia,Turkey,10/5/2020,1603,57
+Asia,Turkey,10/6/2020,1511,55
+Asia,Turkey,10/7/2020,1581,56
+Asia,Turkey,10/8/2020,1615,58
+Asia,Turkey,10/9/2020,1629,55
+Asia,Turkey,10/10/2020,1649,56
+Asia,Turkey,10/11/2020,1502,59
+Asia,Turkey,10/12/2020,1614,58
+Asia,Turkey,10/13/2020,1632,62
+Asia,Turkey,10/14/2020,1671,57
+Asia,Turkey,10/15/2020,1693,66
+Asia,Turkey,10/16/2020,1812,73
+Asia,Turkey,10/17/2020,1723,71
+Asia,Turkey,10/18/2020,1815,72
+Asia,Turkey,10/19/2020,2026,75
+Asia,Turkey,10/20/2020,1894,74
+Asia,Turkey,10/21/2020,2013,68
+Asia,Turkey,10/22/2020,2102,71
+Asia,Turkey,10/23/2020,2165,74
+Asia,Turkey,10/24/2020,2091,69
+Asia,Turkey,10/25/2020,2017,72
+Asia,Turkey,10/26/2020,2198,75
+Asia,Turkey,10/27/2020,2209,76
+Asia,Turkey,10/28/2020,2305,77
+Asia,Turkey,10/29/2020,2319,72
+Asia,Turkey,10/30/2020,2322,78
+Asia,Turkey,10/31/2020,2213,75
+Asia,Turkey,11/1/2020,2106,74
+Asia,Turkey,11/2/2020,2302,76
+Asia,Turkey,11/3/2020,2343,79
+Asia,Turkey,11/4/2020,2391,77
+Asia,Turkey,11/5/2020,2311,81
+Asia,Turkey,11/6/2020,2436,83
+Asia,Turkey,11/7/2020,2483,81
+Asia,Turkey,11/8/2020,2516,84
+Asia,Turkey,11/9/2020,2576,85
+Asia,Turkey,11/10/2020,2529,87
+Asia,Turkey,11/11/2020,2693,86
+Asia,Turkey,11/12/2020,2841,88
+Asia,Turkey,11/13/2020,3045,93
+Asia,Turkey,11/14/2020,3116,92
+Asia,Turkey,11/15/2020,3223,89
+Asia,Turkey,11/16/2020,3316,94
+Asia,Turkey,11/17/2020,3819,103
+Asia,Turkey,11/18/2020,4215,116
+Asia,Turkey,11/19/2020,4542,123
+Asia,Turkey,11/20/2020,5103,141
+Asia,Turkey,11/21/2020,5532,135
+Asia,Turkey,11/22/2020,6017,139
+Asia,Turkey,11/23/2020,6713,153
+Asia,Turkey,11/24/2020,7381,161
+Asia,Turkey,11/25/2020,6814,168
+Asia,Turkey,11/26/2020,36008,174
+Asia,Turkey,11/27/2020,44506,177
+Asia,Turkey,11/28/2020,30103,182
+Asia,Turkey,11/29/2020,29281,185
+Asia,Turkey,11/30/2020,31219,188
+Asia,Turkey,12/1/2020,30110,190
+Asia,Turkey,12/2/2020,31923,193
+Asia,Turkey,12/3/2020,32381,187
+Asia,Turkey,12/4/2020,32736,193
+Asia,Turkey,12/5/2020,31896,196
+Asia,Turkey,12/6/2020,30402,195
+Asia,Turkey,12/7/2020,32137,203
+Asia,Turkey,12/8/2020,33198,211
+Asia,Turkey,12/9/2020,31712,217
+Asia,Turkey,12/10/2020,,220
+Asia,Turkey,12/11/2020,32106,226
+Asia,Turkey,12/12/2020,29136,222
+Asia,Turkey,12/13/2020,26919,218
+Asia,Turkey,12/14/2020,29617,229
+Asia,Turkey,12/15/2020,32102,235
+Asia,Turkey,12/16/2020,29718,240
+Asia,Turkey,12/17/2020,27515,243
+Asia,Turkey,12/18/2020,26410,246
+Asia,Turkey,12/19/2020,22195,241
+Asia,Turkey,12/20/2020,20316,246
+Asia,Turkey,12/21/2020,19103,254
+Asia,Turkey,12/22/2020,19256,251
+Asia,Turkey,12/23/2020,19650,259
+Asia,Turkey,12/24/2020,18102,254
+Asia,Turkey,12/25/2020,17543,256
+Asia,Turkey,12/26/2020,15118,253
+Asia,Turkey,12/27/2020,14205,254
+Asia,Turkey,12/28/2020,15197,257
+Asia,Turkey,12/29/2020,15805,253
+Asia,Turkey,12/30/2020,15692,254
+Asia,Turkey,12/31/2020,14380,239
+Asia,Turkey,1/1/2021,12203,212
+Europe,Italy,1/31/2020,2,
+Europe,Italy,2/1/2020,0,
+Europe,Italy,2/2/2020,0,
+Europe,Italy,2/3/2020,0,
+Europe,Italy,2/4/2020,0,
+Europe,Italy,2/5/2020,0,
+Europe,Italy,2/6/2020,0,
+Europe,Italy,2/7/2020,1,
+Europe,Italy,2/8/2020,0,
+Europe,Italy,2/9/2020,0,
+Europe,Italy,2/10/2020,0,
+Europe,Italy,2/11/2020,0,
+Europe,Italy,2/12/2020,0,
+Europe,Italy,2/13/2020,0,
+Europe,Italy,2/14/2020,0,
+Europe,Italy,2/15/2020,0,
+Europe,Italy,2/16/2020,0,
+Europe,Italy,2/17/2020,0,
+Europe,Italy,2/18/2020,0,
+Europe,Italy,2/19/2020,0,
+Europe,Italy,2/20/2020,0,
+Europe,Italy,2/21/2020,17,1
+Europe,Italy,2/22/2020,42,1
+Europe,Italy,2/23/2020,93,1
+Europe,Italy,2/24/2020,74,4
+Europe,Italy,2/25/2020,93,3
+Europe,Italy,2/26/2020,131,2
+Europe,Italy,2/27/2020,202,5
+Europe,Italy,2/28/2020,233,4
+Europe,Italy,2/29/2020,240,8
+Europe,Italy,3/1/2020,566,5
+Europe,Italy,3/2/2020,342,18
+Europe,Italy,3/3/2020,466,27
+Europe,Italy,3/4/2020,587,28
+Europe,Italy,3/5/2020,769,41
+Europe,Italy,3/6/2020,778,49
+Europe,Italy,3/7/2020,1247,36
+Europe,Italy,3/8/2020,1492,133
+Europe,Italy,3/9/2020,1797,97
+Europe,Italy,3/10/2020,977,168
+Europe,Italy,3/11/2020,2313,196
+Europe,Italy,3/12/2020,2651,189
+Europe,Italy,3/13/2020,2547,250
+Europe,Italy,3/14/2020,3497,175
+Europe,Italy,3/15/2020,3590,368
+Europe,Italy,3/16/2020,3233,349
+Europe,Italy,3/17/2020,3526,345
+Europe,Italy,3/18/2020,4207,475
+Europe,Italy,3/19/2020,5322,427
+Europe,Italy,3/20/2020,5986,627
+Europe,Italy,3/21/2020,6557,793
+Europe,Italy,3/22/2020,5560,651
+Europe,Italy,3/23/2020,4789,601
+Europe,Italy,3/24/2020,5249,743
+Europe,Italy,3/25/2020,5210,683
+Europe,Italy,3/26/2020,6203,712
+Europe,Italy,3/27/2020,5909,919
+Europe,Italy,3/28/2020,5974,889
+Europe,Italy,3/29/2020,5217,756
+Europe,Italy,3/30/2020,4050,812
+Europe,Italy,3/31/2020,4053,837
+Europe,Italy,4/1/2020,4782,727
+Europe,Italy,4/2/2020,4668,760
+Europe,Italy,4/3/2020,4585,766
+Europe,Italy,4/4/2020,4805,681
+Europe,Italy,4/5/2020,4316,525
+Europe,Italy,4/6/2020,3599,636
+Europe,Italy,4/7/2020,3039,604
+Europe,Italy,4/8/2020,3836,542
+Europe,Italy,4/9/2020,4204,610
+Europe,Italy,4/10/2020,3951,570
+Europe,Italy,4/11/2020,4694,619
+Europe,Italy,4/12/2020,4092,431
+Europe,Italy,4/13/2020,3153,566
+Europe,Italy,4/14/2020,2972,602
+Europe,Italy,4/15/2020,2667,578
+Europe,Italy,4/16/2020,3786,525
+Europe,Italy,4/17/2020,3493,575
+Europe,Italy,4/18/2020,3491,482
+Europe,Italy,4/19/2020,3047,433
+Europe,Italy,4/20/2020,2256,454
+Europe,Italy,4/21/2020,2729,534
+Europe,Italy,4/22/2020,3370,437
+Europe,Italy,4/23/2020,2646,464
+Europe,Italy,4/24/2020,3021,420
+Europe,Italy,4/25/2020,2357,415
+Europe,Italy,4/26/2020,2324,260
+Europe,Italy,4/27/2020,1739,333
+Europe,Italy,4/28/2020,2091,382
+Europe,Italy,4/29/2020,2086,323
+Europe,Italy,4/30/2020,1872,285
+Europe,Italy,5/1/2020,1965,269
+Europe,Italy,5/2/2020,1900,474
+Europe,Italy,5/3/2020,1389,174
+Europe,Italy,5/4/2020,1221,195
+Europe,Italy,5/5/2020,1075,236
+Europe,Italy,5/6/2020,1444,369
+Europe,Italy,5/7/2020,1401,274
+Europe,Italy,5/8/2020,1327,243
+Europe,Italy,5/9/2020,1083,194
+Europe,Italy,5/10/2020,802,165
+Europe,Italy,5/11/2020,744,179
+Europe,Italy,5/12/2020,1402,172
+Europe,Italy,5/13/2020,888,195
+Europe,Italy,5/14/2020,992,262
+Europe,Italy,5/15/2020,789,242
+Europe,Italy,5/16/2020,875,153
+Europe,Italy,5/17/2020,675,145
+Europe,Italy,5/18/2020,451,99
+Europe,Italy,5/19/2020,813,162
+Europe,Italy,5/20/2020,665,161
+Europe,Italy,5/21/2020,642,156
+Europe,Italy,5/22/2020,652,130
+Europe,Italy,5/23/2020,669,119
+Europe,Italy,5/24/2020,531,50
+Europe,Italy,5/25/2020,300,92
+Europe,Italy,5/26/2020,397,78
+Europe,Italy,5/27/2020,584,117
+Europe,Italy,5/28/2020,593,70
+Europe,Italy,5/29/2020,516,87
+Europe,Italy,5/30/2020,416,111
+Europe,Italy,5/31/2020,333,75
+Europe,Italy,6/1/2020,200,60
+Europe,Italy,6/2/2020,318,55
+Europe,Italy,6/3/2020,321,71
+Europe,Italy,6/4/2020,177,88
+Europe,Italy,6/5/2020,518,85
+Europe,Italy,6/6/2020,270,72
+Europe,Italy,6/7/2020,197,53
+Europe,Italy,6/8/2020,280,65
+Europe,Italy,6/9/2020,283,79
+Europe,Italy,6/10/2020,202,71
+Europe,Italy,6/11/2020,379,53
+Europe,Italy,6/12/2020,163,56
+Europe,Italy,6/13/2020,346,78
+Europe,Italy,6/14/2020,338,44
+Europe,Italy,6/15/2020,301,26
+Europe,Italy,6/16/2020,210,34
+Europe,Italy,6/17/2020,328,43
+Europe,Italy,6/18/2020,331,66
+Europe,Italy,6/19/2020,-148,47
+Europe,Italy,6/20/2020,264,49
+Europe,Italy,6/21/2020,224,24
+Europe,Italy,6/22/2020,221,23
+Europe,Italy,6/23/2020,113,18
+Europe,Italy,6/24/2020,577,-31
+Europe,Italy,6/25/2020,296,34
+Europe,Italy,6/26/2020,255,30
+Europe,Italy,6/27/2020,175,8
+Europe,Italy,6/28/2020,174,22
+Europe,Italy,6/29/2020,126,6
+Europe,Italy,6/30/2020,142,23
+Europe,Italy,7/1/2020,182,21
+Europe,Italy,7/2/2020,201,30
+Europe,Italy,7/3/2020,223,15
+Europe,Italy,7/4/2020,235,21
+Europe,Italy,7/5/2020,192,7
+Europe,Italy,7/6/2020,208,8
+Europe,Italy,7/7/2020,137,30
+Europe,Italy,7/8/2020,193,15
+Europe,Italy,7/9/2020,214,12
+Europe,Italy,7/10/2020,276,12
+Europe,Italy,7/11/2020,188,7
+Europe,Italy,7/12/2020,234,9
+Europe,Italy,7/13/2020,169,13
+Europe,Italy,7/14/2020,114,17
+Europe,Italy,7/15/2020,162,13
+Europe,Italy,7/16/2020,230,20
+Europe,Italy,7/17/2020,231,11
+Europe,Italy,7/18/2020,249,14
+Europe,Italy,7/19/2020,218,3
+Europe,Italy,7/20/2020,190,13
+Europe,Italy,7/21/2020,128,15
+Europe,Italy,7/22/2020,280,9
+Europe,Italy,7/23/2020,306,10
+Europe,Italy,7/24/2020,252,5
+Europe,Italy,7/25/2020,274,5
+Europe,Italy,7/26/2020,254,5
+Europe,Italy,7/27/2020,168,5
+Europe,Italy,7/28/2020,202,11
+Europe,Italy,7/29/2020,288,6
+Europe,Italy,7/30/2020,382,3
+Europe,Italy,7/31/2020,379,9
+Europe,Italy,8/1/2020,295,5
+Europe,Italy,8/2/2020,238,8
+Europe,Italy,8/3/2020,159,12
+Europe,Italy,8/4/2020,190,5
+Europe,Italy,8/5/2020,384,10
+Europe,Italy,8/6/2020,401,6
+Europe,Italy,8/7/2020,552,3
+Europe,Italy,8/8/2020,347,13
+Europe,Italy,8/9/2020,463,2
+Europe,Italy,8/10/2020,259,4
+Europe,Italy,8/11/2020,412,6
+Europe,Italy,8/12/2020,476,10
+Europe,Italy,8/13/2020,522,6
+Europe,Italy,8/14/2020,574,3
+Europe,Italy,8/15/2020,629,158
+Europe,Italy,8/16/2020,477,4
+Europe,Italy,8/17/2020,320,4
+Europe,Italy,8/18/2020,401,5
+Europe,Italy,8/19/2020,642,7
+Europe,Italy,8/20/2020,840,6
+Europe,Italy,8/21/2020,947,9
+Europe,Italy,8/22/2020,1071,3
+Europe,Italy,8/23/2020,1209,7
+Europe,Italy,8/24/2020,953,4
+Europe,Italy,8/25/2020,876,4
+Europe,Italy,8/26/2020,1366,13
+Europe,Italy,8/27/2020,1409,5
+Europe,Italy,8/28/2020,1460,9
+Europe,Italy,8/29/2020,1444,1
+Europe,Italy,8/30/2020,1365,4
+Europe,Italy,8/31/2020,996,6
+Europe,Italy,9/1/2020,975,8
+Europe,Italy,9/2/2020,1326,6
+Europe,Italy,9/3/2020,1397,10
+Europe,Italy,9/4/2020,1732,11
+Europe,Italy,9/5/2020,1694,16
+Europe,Italy,9/6/2020,1296,7
+Europe,Italy,9/7/2020,1150,12
+Europe,Italy,9/8/2020,1369,10
+Europe,Italy,9/9/2020,1430,14
+Europe,Italy,9/10/2020,1597,10
+Europe,Italy,9/11/2020,1616,10
+Europe,Italy,9/12/2020,1501,6
+Europe,Italy,9/13/2020,1456,7
+Europe,Italy,9/14/2020,1008,14
+Europe,Italy,9/15/2020,1229,9
+Europe,Italy,9/16/2020,1452,12
+Europe,Italy,9/17/2020,1583,13
+Europe,Italy,9/18/2020,1907,10
+Europe,Italy,9/19/2020,1637,24
+Europe,Italy,9/20/2020,1587,15
+Europe,Italy,9/21/2020,1350,17
+Europe,Italy,9/22/2020,1391,14
+Europe,Italy,9/23/2020,1640,20
+Europe,Italy,9/24/2020,1786,23
+Europe,Italy,9/25/2020,1912,20
+Europe,Italy,9/26/2020,1869,17
+Europe,Italy,9/27/2020,1766,17
+Europe,Italy,9/28/2020,1494,16
+Europe,Italy,9/29/2020,1647,24
+Europe,Italy,9/30/2020,1850,19
+Europe,Italy,10/1/2020,2548,24
+Europe,Italy,10/2/2020,2499,23
+Europe,Italy,10/3/2020,2843,27
+Europe,Italy,10/4/2020,2578,18
+Europe,Italy,10/5/2020,2257,16
+Europe,Italy,10/6/2020,2677,28
+Europe,Italy,10/7/2020,3677,31
+Europe,Italy,10/8/2020,4458,22
+Europe,Italy,10/9/2020,5372,28
+Europe,Italy,10/10/2020,5724,29
+Europe,Italy,10/11/2020,5456,26
+Europe,Italy,10/12/2020,4619,39
+Europe,Italy,10/13/2020,5898,41
+Europe,Italy,10/14/2020,7332,43
+Europe,Italy,10/15/2020,8803,83
+Europe,Italy,10/16/2020,10009,55
+Europe,Italy,10/17/2020,10925,47
+Europe,Italy,10/18/2020,11705,69
+Europe,Italy,10/19/2020,9337,73
+Europe,Italy,10/20/2020,10871,89
+Europe,Italy,10/21/2020,15199,127
+Europe,Italy,10/22/2020,16078,136
+Europe,Italy,10/23/2020,19143,91
+Europe,Italy,10/24/2020,19640,151
+Europe,Italy,10/25/2020,21273,128
+Europe,Italy,10/26/2020,17007,141
+Europe,Italy,10/27/2020,21989,221
+Europe,Italy,10/28/2020,24988,205
+Europe,Italy,10/29/2020,26829,217
+Europe,Italy,10/30/2020,31079,199
+Europe,Italy,10/31/2020,31756,297
+Europe,Italy,11/1/2020,29905,208
+Europe,Italy,11/2/2020,22253,233
+Europe,Italy,11/3/2020,28241,353
+Europe,Italy,11/4/2020,30548,352
+Europe,Italy,11/5/2020,34502,428
+Europe,Italy,11/6/2020,37802,446
+Europe,Italy,11/7/2020,39809,425
+Europe,Italy,11/8/2020,32614,331
+Europe,Italy,11/9/2020,25269,356
+Europe,Italy,11/10/2020,35090,580
+Europe,Italy,11/11/2020,32961,623
+Europe,Italy,11/12/2020,37977,636
+Europe,Italy,11/13/2020,40902,550
+Europe,Italy,11/14/2020,37249,544
+Europe,Italy,11/15/2020,33977,546
+Europe,Italy,11/16/2020,27352,504
+Europe,Italy,11/17/2020,32191,731
+Europe,Italy,11/18/2020,34280,753
+Europe,Italy,11/19/2020,36176,653
+Europe,Italy,11/20/2020,37239,699
+Europe,Italy,11/21/2020,34764,692
+Europe,Italy,11/22/2020,28337,562
+Europe,Italy,11/23/2020,22927,630
+Europe,Italy,11/24/2020,23227,853
+Europe,Italy,11/25/2020,25852,722
+Europe,Italy,11/26/2020,29001,822
+Europe,Italy,11/27/2020,28342,827
+Europe,Italy,11/28/2020,26315,686
+Europe,Italy,11/29/2020,20646,541
+Europe,Italy,11/30/2020,16376,672
+Europe,Italy,12/1/2020,19347,785
+Europe,Italy,12/2/2020,20709,684
+Europe,Italy,12/3/2020,23219,993
+Europe,Italy,12/4/2020,24110,814
+Europe,Italy,12/5/2020,21052,662
+Europe,Italy,12/6/2020,18887,564
+Europe,Italy,12/7/2020,13679,528
+Europe,Italy,12/8/2020,14837,634
+Europe,Italy,12/9/2020,12755,499
+Europe,Italy,12/10/2020,16998,887
+Europe,Italy,12/11/2020,18726,761
+Europe,Italy,12/12/2020,19902,649
+Europe,Italy,12/13/2020,17937,484
+Europe,Italy,12/14/2020,12025,491
+Europe,Italy,12/15/2020,14839,846
+Europe,Italy,12/16/2020,17568,680
+Europe,Italy,12/17/2020,18233,683
+Europe,Italy,12/18/2020,15401,674
+Europe,Italy,12/19/2020,16305,553
+Europe,Italy,12/20/2020,15102,352
+Europe,Italy,12/21/2020,10869,415
+Europe,Italy,12/22/2020,13316,628
+Europe,Italy,12/23/2020,13908,553
+Europe,Italy,12/24/2020,18039,505
+Europe,Italy,12/25/2020,19037,459
+Europe,Italy,12/26/2020,10405,261
+Europe,Italy,12/27/2020,8937,305
+Europe,Italy,12/28/2020,8581,445
+Europe,Italy,12/29/2020,11210,659
+Europe,Italy,12/30/2020,16202,575
+Europe,Italy,12/31/2020,23477,555
+Europe,Italy,1/1/2021,22210,462
+Europe,Spain,2/1/2020,1,
+Europe,Spain,2/2/2020,0,
+Europe,Spain,2/3/2020,0,
+Europe,Spain,2/4/2020,0,
+Europe,Spain,2/5/2020,0,
+Europe,Spain,2/6/2020,0,
+Europe,Spain,2/7/2020,0,
+Europe,Spain,2/8/2020,0,
+Europe,Spain,2/9/2020,1,
+Europe,Spain,2/10/2020,0,
+Europe,Spain,2/11/2020,0,
+Europe,Spain,2/12/2020,0,
+Europe,Spain,2/13/2020,0,
+Europe,Spain,2/14/2020,0,
+Europe,Spain,2/15/2020,0,
+Europe,Spain,2/16/2020,0,
+Europe,Spain,2/17/2020,0,
+Europe,Spain,2/18/2020,0,
+Europe,Spain,2/19/2020,0,
+Europe,Spain,2/20/2020,0,
+Europe,Spain,2/21/2020,0,
+Europe,Spain,2/22/2020,0,
+Europe,Spain,2/23/2020,0,
+Europe,Spain,2/24/2020,0,
+Europe,Spain,2/25/2020,4,
+Europe,Spain,2/26/2020,7,
+Europe,Spain,2/27/2020,2,
+Europe,Spain,2/28/2020,17,
+Europe,Spain,2/29/2020,13,
+Europe,Spain,3/1/2020,39,
+Europe,Spain,3/2/2020,36,
+Europe,Spain,3/3/2020,45,1
+Europe,Spain,3/4/2020,57,1
+Europe,Spain,3/5/2020,37,1
+Europe,Spain,3/6/2020,141,2
+Europe,Spain,3/7/2020,100,5
+Europe,Spain,3/8/2020,173,7
+Europe,Spain,3/9/2020,400,11
+Europe,Spain,3/10/2020,622,7
+Europe,Spain,3/11/2020,582,19
+Europe,Spain,3/12/2020,0,1
+Europe,Spain,3/13/2020,2955,78
+Europe,Spain,3/14/2020,1159,62
+Europe,Spain,3/15/2020,1407,94
+Europe,Spain,3/16/2020,2144,53
+Europe,Spain,3/17/2020,1806,191
+Europe,Spain,3/18/2020,2162,90
+Europe,Spain,3/19/2020,4053,207
+Europe,Spain,3/20/2020,2447,213
+Europe,Spain,3/21/2020,4964,332
+Europe,Spain,3/22/2020,3394,397
+Europe,Spain,3/23/2020,6368,539
+Europe,Spain,3/24/2020,4749,497
+Europe,Spain,3/25/2020,9630,839
+Europe,Spain,3/26/2020,8271,718
+Europe,Spain,3/27/2020,7933,773
+Europe,Spain,3/28/2020,7516,844
+Europe,Spain,3/29/2020,6875,821
+Europe,Spain,3/30/2020,7846,913
+Europe,Spain,3/31/2020,7967,748
+Europe,Spain,4/1/2020,8195,923
+Europe,Spain,4/2/2020,7947,961
+Europe,Spain,4/3/2020,7134,850
+Europe,Spain,4/4/2020,6969,749
+Europe,Spain,4/5/2020,5478,694
+Europe,Spain,4/6/2020,5029,700
+Europe,Spain,4/7/2020,5267,704
+Europe,Spain,4/8/2020,6278,747
+Europe,Spain,4/9/2020,5002,655
+Europe,Spain,4/10/2020,5051,634
+Europe,Spain,4/11/2020,4754,525
+Europe,Spain,4/12/2020,3804,603
+Europe,Spain,4/13/2020,3268,547
+Europe,Spain,4/14/2020,2442,300
+Europe,Spain,4/15/2020,5103,652
+Europe,Spain,4/16/2020,7304,607
+Europe,Spain,4/17/2020,5891,687
+Europe,Spain,4/18/2020,887,41
+Europe,Spain,4/19/2020,6948,410
+Europe,Spain,4/20/2020,1536,399
+Europe,Spain,4/21/2020,3968,430
+Europe,Spain,4/22/2020,4211,435
+Europe,Spain,4/23/2020,4635,440
+Europe,Spain,4/24/2020,-10034,367
+Europe,Spain,4/25/2020,2915,378
+Europe,Spain,4/26/2020,1729,288
+Europe,Spain,4/27/2020,1831,331
+Europe,Spain,4/28/2020,1308,301
+Europe,Spain,4/29/2020,2144,453
+Europe,Spain,4/30/2020,518,268
+Europe,Spain,5/1/2020,1781,0
+Europe,Spain,5/2/2020,1366,557
+Europe,Spain,5/3/2020,884,164
+Europe,Spain,5/4/2020,545,164
+Europe,Spain,5/5/2020,1318,185
+Europe,Spain,5/6/2020,996,244
+Europe,Spain,5/7/2020,1122,213
+Europe,Spain,5/8/2020,1410,229
+Europe,Spain,5/9/2020,721,179
+Europe,Spain,5/10/2020,772,143
+Europe,Spain,5/11/2020,3086,123
+Europe,Spain,5/12/2020,594,176
+Europe,Spain,5/13/2020,661,184
+Europe,Spain,5/14/2020,849,217
+Europe,Spain,5/15/2020,643,138
+Europe,Spain,5/16/2020,515,104
+Europe,Spain,5/17/2020,0,0
+Europe,Spain,5/18/2020,908,146
+Europe,Spain,5/19/2020,431,69
+Europe,Spain,5/20/2020,518,110
+Europe,Spain,5/21/2020,482,52
+Europe,Spain,5/22/2020,1787,688
+Europe,Spain,5/23/2020,466,50
+Europe,Spain,5/24/2020,482,74
+Europe,Spain,5/25/2020,-372,-1918
+Europe,Spain,5/26/2020,859,283
+Europe,Spain,5/27/2020,0,0
+Europe,Spain,5/28/2020,1647,2
+Europe,Spain,5/29/2020,658,2
+Europe,Spain,5/30/2020,664,4
+Europe,Spain,5/31/2020,251,2
+Europe,Spain,6/1/2020,159,0
+Europe,Spain,6/2/2020,294,0
+Europe,Spain,6/3/2020,394,1
+Europe,Spain,6/4/2020,334,5
+Europe,Spain,6/5/2020,318,1
+Europe,Spain,6/6/2020,332,1
+Europe,Spain,6/7/2020,240,1
+Europe,Spain,6/8/2020,167,0
+Europe,Spain,6/9/2020,249,0
+Europe,Spain,6/10/2020,314,0
+Europe,Spain,6/11/2020,427,0
+Europe,Spain,6/12/2020,502,0
+Europe,Spain,6/13/2020,396,0
+Europe,Spain,6/14/2020,323,0
+Europe,Spain,6/15/2020,181,0
+Europe,Spain,6/16/2020,219,0
+Europe,Spain,6/17/2020,355,0
+Europe,Spain,6/18/2020,585,0
+Europe,Spain,6/19/2020,307,1179
+Europe,Spain,6/20/2020,363,7
+Europe,Spain,6/21/2020,334,1
+Europe,Spain,6/22/2020,232,1
+Europe,Spain,6/23/2020,248,1
+Europe,Spain,6/24/2020,334,2
+Europe,Spain,6/25/2020,400,3
+Europe,Spain,6/26/2020,419,8
+Europe,Spain,6/27/2020,564,3
+Europe,Spain,6/28/2020,301,2
+Europe,Spain,6/29/2020,200,3
+Europe,Spain,6/30/2020,301,9
+Europe,Spain,7/1/2020,388,9
+Europe,Spain,7/2/2020,444,4
+Europe,Spain,7/3/2020,442,17
+Europe,Spain,7/4/2020,0,0
+Europe,Spain,7/5/2020,0,0
+Europe,Spain,7/6/2020,1244,3
+Europe,Spain,7/7/2020,341,4
+Europe,Spain,7/8/2020,383,4
+Europe,Spain,7/9/2020,543,5
+Europe,Spain,7/10/2020,852,2
+Europe,Spain,7/11/2020,0,0
+Europe,Spain,7/12/2020,0,0
+Europe,Spain,7/13/2020,2045,3
+Europe,Spain,7/14/2020,666,3
+Europe,Spain,7/15/2020,875,4
+Europe,Spain,7/16/2020,1361,3
+Europe,Spain,7/17/2020,1400,4
+Europe,Spain,7/18/2020,0,0
+Europe,Spain,7/19/2020,0,0
+Europe,Spain,7/20/2020,4581,2
+Europe,Spain,7/21/2020,1358,2
+Europe,Spain,7/22/2020,1357,2
+Europe,Spain,7/23/2020,2615,3
+Europe,Spain,7/24/2020,2255,3
+Europe,Spain,7/25/2020,0,0
+Europe,Spain,7/26/2020,0,0
+Europe,Spain,7/27/2020,6361,2
+Europe,Spain,7/28/2020,1828,2
+Europe,Spain,7/29/2020,2031,5
+Europe,Spain,7/30/2020,2789,2
+Europe,Spain,7/31/2020,3092,2
+Europe,Spain,8/1/2020,0,0
+Europe,Spain,8/2/2020,0,0
+Europe,Spain,8/3/2020,8532,27
+Europe,Spain,8/4/2020,5760,26
+Europe,Spain,8/5/2020,2953,1
+Europe,Spain,8/6/2020,4088,1
+Europe,Spain,8/7/2020,4507,3
+Europe,Spain,8/8/2020,0,0
+Europe,Spain,8/9/2020,0,0
+Europe,Spain,8/10/2020,8618,73
+Europe,Spain,8/11/2020,3632,5
+Europe,Spain,8/12/2020,3172,-2
+Europe,Spain,8/13/2020,7550,26
+Europe,Spain,8/14/2020,5479,12
+Europe,Spain,8/15/2020,0,0
+Europe,Spain,8/16/2020,0,0
+Europe,Spain,8/17/2020,16269,29
+Europe,Spain,8/18/2020,5114,24
+Europe,Spain,8/19/2020,6671,127
+Europe,Spain,8/20/2020,7039,16
+Europe,Spain,8/21/2020,8148,25
+Europe,Spain,8/22/2020,0,0
+Europe,Spain,8/23/2020,0,0
+Europe,Spain,8/24/2020,19382,34
+Europe,Spain,8/25/2020,7117,52
+Europe,Spain,8/26/2020,7296,47
+Europe,Spain,8/27/2020,9658,25
+Europe,Spain,8/28/2020,9779,15
+Europe,Spain,8/29/2020,0,0
+Europe,Spain,8/30/2020,0,0
+Europe,Spain,8/31/2020,23572,83
+Europe,Spain,9/1/2020,8115,58
+Europe,Spain,9/2/2020,8581,42
+Europe,Spain,9/3/2020,8959,40
+Europe,Spain,9/4/2020,10476,184
+Europe,Spain,9/5/2020,0,0
+Europe,Spain,9/6/2020,0,0
+Europe,Spain,9/7/2020,26560,98
+Europe,Spain,9/8/2020,8964,78
+Europe,Spain,9/9/2020,8866,34
+Europe,Spain,9/10/2020,10764,71
+Europe,Spain,9/11/2020,12183,48
+Europe,Spain,9/12/2020,0,0
+Europe,Spain,9/13/2020,0,0
+Europe,Spain,9/14/2020,27404,101
+Europe,Spain,9/15/2020,9437,156
+Europe,Spain,9/16/2020,11193,239
+Europe,Spain,9/17/2020,11291,162
+Europe,Spain,9/18/2020,14389,90
+Europe,Spain,9/19/2020,0,0
+Europe,Spain,9/20/2020,0,0
+Europe,Spain,9/21/2020,31428,168
+Europe,Spain,9/22/2020,10799,241
+Europe,Spain,9/23/2020,11289,130
+Europe,Spain,9/24/2020,10653,84
+Europe,Spain,9/25/2020,12272,114
+Europe,Spain,9/26/2020,0,0
+Europe,Spain,9/27/2020,0,0
+Europe,Spain,9/28/2020,31785,179
+Europe,Spain,9/29/2020,0,0
+Europe,Spain,9/30/2020,20922,380
+Europe,Spain,10/1/2020,9419,182
+Europe,Spain,10/2/2020,11325,113
+Europe,Spain,10/3/2020,0,0
+Europe,Spain,10/4/2020,0,0
+Europe,Spain,10/5/2020,23480,139
+Europe,Spain,10/6/2020,11998,261
+Europe,Spain,10/7/2020,10491,76
+Europe,Spain,10/8/2020,12423,126
+Europe,Spain,10/9/2020,12788,241
+Europe,Spain,10/10/2020,0,0
+Europe,Spain,10/11/2020,0,0
+Europe,Spain,10/12/2020,27856,195
+Europe,Spain,10/13/2020,7118,80
+Europe,Spain,10/14/2020,11970,209
+Europe,Spain,10/15/2020,13318,140
+Europe,Spain,10/16/2020,15186,222
+Europe,Spain,10/17/2020,0,0
+Europe,Spain,10/18/2020,0,0
+Europe,Spain,10/19/2020,37889,217
+Europe,Spain,10/20/2020,13873,218
+Europe,Spain,10/21/2020,16973,156
+Europe,Spain,10/22/2020,20986,155
+Europe,Spain,10/23/2020,19851,231
+Europe,Spain,10/24/2020,0,0
+Europe,Spain,10/25/2020,0,0
+Europe,Spain,10/26/2020,52188,279
+Europe,Spain,10/27/2020,18418,267
+Europe,Spain,10/28/2020,19765,168
+Europe,Spain,10/29/2020,23580,173
+Europe,Spain,10/30/2020,25595,239
+Europe,Spain,10/31/2020,0,0
+Europe,Spain,11/1/2020,0,0
+Europe,Spain,11/2/2020,55019,379
+Europe,Spain,11/3/2020,18669,238
+Europe,Spain,11/4/2020,25042,1623
+Europe,Spain,11/5/2020,21908,368
+Europe,Spain,11/6/2020,22516,347
+Europe,Spain,11/7/2020,0,0
+Europe,Spain,11/8/2020,0,0
+Europe,Spain,11/9/2020,52386,512
+Europe,Spain,11/10/2020,0,0
+Europe,Spain,11/11/2020,36491,760
+Europe,Spain,11/12/2020,19511,356
+Europe,Spain,11/13/2020,21371,308
+Europe,Spain,11/14/2020,0,0
+Europe,Spain,11/15/2020,0,0
+Europe,Spain,11/16/2020,38273,484
+Europe,Spain,11/17/2020,13159,435
+Europe,Spain,11/18/2020,15318,351
+Europe,Spain,11/19/2020,16233,252
+Europe,Spain,11/20/2020,15156,328
+Europe,Spain,11/21/2020,0,0
+Europe,Spain,11/22/2020,0,0
+Europe,Spain,11/23/2020,25886,512
+Europe,Spain,11/24/2020,12228,537
+Europe,Spain,11/25/2020,10222,369
+Europe,Spain,11/26/2020,12289,337
+Europe,Spain,11/27/2020,10853,294
+Europe,Spain,11/28/2020,0,0
+Europe,Spain,11/29/2020,0,0
+Europe,Spain,11/30/2020,19979,401
+Europe,Spain,12/1/2020,8257,442
+Europe,Spain,12/2/2020,9331,273
+Europe,Spain,12/3/2020,10127,254
+Europe,Spain,12/4/2020,8745,214
+Europe,Spain,12/5/2020,0,0
+Europe,Spain,12/6/2020,0,0
+Europe,Spain,12/7/2020,17681,394
+Europe,Spain,12/8/2020,0,0
+Europe,Spain,12/9/2020,9773,373
+Europe,Spain,12/10/2020,7955,325
+Europe,Spain,12/11/2020,10519,280
+Europe,Spain,12/12/2020,0,0
+Europe,Spain,12/13/2020,0,0
+Europe,Spain,12/14/2020,21309,389
+Europe,Spain,12/15/2020,10328,388
+Europe,Spain,12/16/2020,11078,195
+Europe,Spain,12/17/2020,12131,181
+Europe,Spain,12/18/2020,11815,149
+Europe,Spain,12/19/2020,0,0
+Europe,Spain,12/20/2020,0,0
+Europe,Spain,12/21/2020,22013,334
+Europe,Spain,12/22/2020,10654,260
+Europe,Spain,12/23/2020,12386,178
+Europe,Spain,12/24/2020,12662,126
+Europe,Spain,12/25/2020,0,0
+Europe,Spain,12/26/2020,0,0
+Europe,Spain,12/27/2020,0,0
+Europe,Spain,12/28/2020,24462,298
+Europe,Spain,12/29/2020,14089,320
+Europe,Spain,12/30/2020,16716,247
+Europe,Spain,12/31/2020,18047,148
+Europe,Spain,1/1/2021,0,0
+Europe,Germany,1/27/2020,1,
+Europe,Germany,1/28/2020,3,
+Europe,Germany,1/29/2020,0,
+Europe,Germany,1/30/2020,0,
+Europe,Germany,1/31/2020,1,
+Europe,Germany,2/1/2020,3,
+Europe,Germany,2/2/2020,2,
+Europe,Germany,2/3/2020,2,
+Europe,Germany,2/4/2020,0,
+Europe,Germany,2/5/2020,0,
+Europe,Germany,2/6/2020,0,
+Europe,Germany,2/7/2020,1,
+Europe,Germany,2/8/2020,0,
+Europe,Germany,2/9/2020,1,
+Europe,Germany,2/10/2020,0,
+Europe,Germany,2/11/2020,2,
+Europe,Germany,2/12/2020,0,
+Europe,Germany,2/13/2020,0,
+Europe,Germany,2/14/2020,0,
+Europe,Germany,2/15/2020,0,
+Europe,Germany,2/16/2020,0,
+Europe,Germany,2/17/2020,0,
+Europe,Germany,2/18/2020,0,
+Europe,Germany,2/19/2020,0,
+Europe,Germany,2/20/2020,0,
+Europe,Germany,2/21/2020,0,
+Europe,Germany,2/22/2020,0,
+Europe,Germany,2/23/2020,0,
+Europe,Germany,2/24/2020,0,
+Europe,Germany,2/25/2020,1,
+Europe,Germany,2/26/2020,10,
+Europe,Germany,2/27/2020,19,
+Europe,Germany,2/28/2020,2,
+Europe,Germany,2/29/2020,31,
+Europe,Germany,3/1/2020,51,
+Europe,Germany,3/2/2020,29,
+Europe,Germany,3/3/2020,37,
+Europe,Germany,3/4/2020,66,
+Europe,Germany,3/5/2020,220,
+Europe,Germany,3/6/2020,188,
+Europe,Germany,3/7/2020,129,
+Europe,Germany,3/8/2020,241,
+Europe,Germany,3/9/2020,136,2
+Europe,Germany,3/10/2020,281,0
+Europe,Germany,3/11/2020,451,1
+Europe,Germany,3/12/2020,170,0
+Europe,Germany,3/13/2020,1597,4
+Europe,Germany,3/14/2020,910,2
+Europe,Germany,3/15/2020,1210,2
+Europe,Germany,3/16/2020,1477,6
+Europe,Germany,3/17/2020,1985,7
+Europe,Germany,3/18/2020,3070,4
+Europe,Germany,3/19/2020,2993,16
+Europe,Germany,3/20/2020,4528,23
+Europe,Germany,3/21/2020,2365,17
+Europe,Germany,3/22/2020,2660,10
+Europe,Germany,3/23/2020,4183,29
+Europe,Germany,3/24/2020,3930,34
+Europe,Germany,3/25/2020,4337,49
+Europe,Germany,3/26/2020,6615,61
+Europe,Germany,3/27/2020,6933,75
+Europe,Germany,3/28/2020,6824,91
+Europe,Germany,3/29/2020,4400,100
+Europe,Germany,3/30/2020,4790,112
+Europe,Germany,3/31/2020,4923,130
+Europe,Germany,4/1/2020,6064,145
+Europe,Germany,4/2/2020,6922,187
+Europe,Germany,4/3/2020,6365,168
+Europe,Germany,4/4/2020,4933,169
+Europe,Germany,4/5/2020,4031,140
+Europe,Germany,4/6/2020,3251,226
+Europe,Germany,4/7/2020,4289,206
+Europe,Germany,4/8/2020,5633,333
+Europe,Germany,4/9/2020,4885,258
+Europe,Germany,4/10/2020,3990,160
+Europe,Germany,4/11/2020,2737,-31
+Europe,Germany,4/12/2020,2946,286
+Europe,Germany,4/13/2020,2218,172
+Europe,Germany,4/14/2020,1287,100
+Europe,Germany,4/15/2020,3394,510
+Europe,Germany,4/16/2020,2945,248
+Europe,Germany,4/17/2020,3699,300
+Europe,Germany,4/18/2020,1945,107
+Europe,Germany,4/19/2020,1842,127
+Europe,Germany,4/20/2020,1881,276
+Europe,Germany,4/21/2020,1226,171
+Europe,Germany,4/22/2020,2357,246
+Europe,Germany,4/23/2020,2481,296
+Europe,Germany,4/24/2020,1870,185
+Europe,Germany,4/25/2020,1514,117
+Europe,Germany,4/26/2020,1257,99
+Europe,Germany,4/27/2020,988,150
+Europe,Germany,4/28/2020,1154,188
+Europe,Germany,4/29/2020,1627,153
+Europe,Germany,4/30/2020,1470,156
+Europe,Germany,5/1/2020,1068,113
+Europe,Germany,5/2/2020,890,76
+Europe,Germany,5/3/2020,697,54
+Europe,Germany,5/4/2020,488,127
+Europe,Germany,5/5/2020,855,0
+Europe,Germany,5/6/2020,1155,282
+Europe,Germany,5/7/2020,1268,117
+Europe,Germany,5/8/2020,1158,118
+Europe,Germany,5/9/2020,736,39
+Europe,Germany,5/10/2020,555,20
+Europe,Germany,5/11/2020,697,92
+Europe,Germany,5/12/2020,595,77
+Europe,Germany,5/13/2020,927,123
+Europe,Germany,5/14/2020,380,23
+Europe,Germany,5/15/2020,755,13
+Europe,Germany,5/16/2020,519,41
+Europe,Germany,5/17/2020,617,24
+Europe,Germany,5/18/2020,182,41
+Europe,Germany,5/19/2020,1227,78
+Europe,Germany,5/20/2020,695,63
+Europe,Germany,5/21/2020,548,59
+Europe,Germany,5/22/2020,689,25
+Europe,Germany,5/23/2020,276,33
+Europe,Germany,5/24/2020,342,22
+Europe,Germany,5/25/2020,272,26
+Europe,Germany,5/26/2020,600,63
+Europe,Germany,5/27/2020,324,56
+Europe,Germany,5/28/2020,672,42
+Europe,Germany,5/29/2020,726,34
+Europe,Germany,5/30/2020,267,26
+Europe,Germany,5/31/2020,221,10
+Europe,Germany,6/1/2020,184,15
+Europe,Germany,6/2/2020,285,8
+Europe,Germany,6/3/2020,242,39
+Europe,Germany,6/4/2020,351,33
+Europe,Germany,6/5/2020,452,23
+Europe,Germany,6/6/2020,526,15
+Europe,Germany,6/7/2020,300,12
+Europe,Germany,6/8/2020,359,10
+Europe,Germany,6/9/2020,397,41
+Europe,Germany,6/10/2020,16,16
+Europe,Germany,6/11/2020,169,20
+Europe,Germany,6/12/2020,535,11
+Europe,Germany,6/13/2020,41,10
+Europe,Germany,6/14/2020,251,8
+Europe,Germany,6/15/2020,164,6
+Europe,Germany,6/16/2020,570,13
+Europe,Germany,6/17/2020,352,31
+Europe,Germany,6/18/2020,1213,24
+Europe,Germany,6/19/2020,482,12
+Europe,Germany,6/20/2020,371,8
+Europe,Germany,6/21/2020,602,0
+Europe,Germany,6/22/2020,496,4
+Europe,Germany,6/23/2020,712,15
+Europe,Germany,6/24/2020,391,14
+Europe,Germany,6/25/2020,500,12
+Europe,Germany,6/26/2020,665,25
+Europe,Germany,6/27/2020,422,3
+Europe,Germany,6/28/2020,235,0
+Europe,Germany,6/29/2020,349,8
+Europe,Germany,6/30/2020,376,14
+Europe,Germany,7/1/2020,475,5
+Europe,Germany,7/2/2020,477,11
+Europe,Germany,7/3/2020,410,4
+Europe,Germany,7/4/2020,418,10
+Europe,Germany,7/5/2020,325,3
+Europe,Germany,7/6/2020,541,-1
+Europe,Germany,7/7/2020,279,10
+Europe,Germany,7/8/2020,356,14
+Europe,Germany,7/9/2020,302,11
+Europe,Germany,7/10/2020,331,6
+Europe,Germany,7/11/2020,377,7
+Europe,Germany,7/12/2020,210,1
+Europe,Germany,7/13/2020,261,3
+Europe,Germany,7/14/2020,276,4
+Europe,Germany,7/15/2020,434,2
+Europe,Germany,7/16/2020,560,7
+Europe,Germany,7/17/2020,595,1
+Europe,Germany,7/18/2020,381,3
+Europe,Germany,7/19/2020,309,1
+Europe,Germany,7/20/2020,590,2
+Europe,Germany,7/21/2020,392,5
+Europe,Germany,7/22/2020,559,3
+Europe,Germany,7/23/2020,605,8
+Europe,Germany,7/24/2020,742,10
+Europe,Germany,7/25/2020,655,4
+Europe,Germany,7/26/2020,389,0
+Europe,Germany,7/27/2020,445,1
+Europe,Germany,7/28/2020,595,6
+Europe,Germany,7/29/2020,839,4
+Europe,Germany,7/30/2020,989,9
+Europe,Germany,7/31/2020,864,3
+Europe,Germany,8/1/2020,606,7
+Europe,Germany,8/2/2020,215,0
+Europe,Germany,8/3/2020,891,0
+Europe,Germany,8/4/2020,717,9
+Europe,Germany,8/5/2020,1285,16
+Europe,Germany,8/6/2020,926,2
+Europe,Germany,8/7/2020,1157,14
+Europe,Germany,8/8/2020,707,6
+Europe,Germany,8/9/2020,385,1
+Europe,Germany,8/10/2020,1220,1
+Europe,Germany,8/11/2020,1032,5
+Europe,Germany,8/12/2020,1319,5
+Europe,Germany,8/13/2020,1422,4
+Europe,Germany,8/14/2020,1510,13
+Europe,Germany,8/15/2020,697,5
+Europe,Germany,8/16/2020,519,0
+Europe,Germany,8/17/2020,1693,1
+Europe,Germany,8/18/2020,1420,5
+Europe,Germany,8/19/2020,1586,8
+Europe,Germany,8/20/2020,1586,14
+Europe,Germany,8/21/2020,1737,3
+Europe,Germany,8/22/2020,832,6
+Europe,Germany,8/23/2020,633,3
+Europe,Germany,8/24/2020,1628,1
+Europe,Germany,8/25/2020,1461,5
+Europe,Germany,8/26/2020,1427,4
+Europe,Germany,8/27/2020,1561,5
+Europe,Germany,8/28/2020,1555,0
+Europe,Germany,8/29/2020,709,9
+Europe,Germany,8/30/2020,470,1
+Europe,Germany,8/31/2020,1497,3
+Europe,Germany,9/1/2020,1213,4
+Europe,Germany,9/2/2020,1396,15
+Europe,Germany,9/3/2020,1429,0
+Europe,Germany,9/4/2020,1443,5
+Europe,Germany,9/5/2020,775,2
+Europe,Germany,9/6/2020,670,1
+Europe,Germany,9/7/2020,1898,1
+Europe,Germany,9/8/2020,1331,5
+Europe,Germany,9/9/2020,1476,6
+Europe,Germany,9/10/2020,1716,3
+Europe,Germany,9/11/2020,1586,3
+Europe,Germany,9/12/2020,1082,4
+Europe,Germany,9/13/2020,920,2
+Europe,Germany,9/14/2020,1485,2
+Europe,Germany,9/15/2020,1792,11
+Europe,Germany,9/16/2020,1855,6
+Europe,Germany,9/17/2020,2179,3
+Europe,Germany,9/18/2020,2199,10
+Europe,Germany,9/19/2020,1685,2
+Europe,Germany,9/20/2020,1033,2
+Europe,Germany,9/21/2020,1595,0
+Europe,Germany,9/22/2020,1852,15
+Europe,Germany,9/23/2020,1613,18
+Europe,Germany,9/24/2020,2321,13
+Europe,Germany,9/25/2020,2366,15
+Europe,Germany,9/26/2020,1314,8
+Europe,Germany,9/27/2020,1313,5
+Europe,Germany,9/28/2020,2292,4
+Europe,Germany,9/29/2020,1840,15
+Europe,Germany,9/30/2020,2442,12
+Europe,Germany,10/1/2020,2626,14
+Europe,Germany,10/2/2020,2835,9
+Europe,Germany,10/3/2020,1653,13
+Europe,Germany,10/4/2020,1546,2
+Europe,Germany,10/5/2020,3100,21
+Europe,Germany,10/6/2020,2454,12
+Europe,Germany,10/7/2020,4010,16
+Europe,Germany,10/8/2020,4804,12
+Europe,Germany,10/9/2020,4554,5
+Europe,Germany,10/10/2020,2968,21
+Europe,Germany,10/11/2020,2846,6
+Europe,Germany,10/12/2020,6541,14
+Europe,Germany,10/13/2020,4464,42
+Europe,Germany,10/14/2020,7173,34
+Europe,Germany,10/15/2020,7620,23
+Europe,Germany,10/16/2020,7695,34
+Europe,Germany,10/17/2020,4862,12
+Europe,Germany,10/18/2020,4007,13
+Europe,Germany,10/19/2020,8397,44
+Europe,Germany,10/20/2020,8523,40
+Europe,Germany,10/21/2020,12331,29
+Europe,Germany,10/22/2020,5952,49
+Europe,Germany,10/23/2020,13476,18
+Europe,Germany,10/24/2020,10458,57
+Europe,Germany,10/25/2020,9890,27
+Europe,Germany,10/26/2020,12560,29
+Europe,Germany,10/27/2020,13161,30
+Europe,Germany,10/28/2020,16202,97
+Europe,Germany,10/29/2020,18733,87
+Europe,Germany,10/30/2020,19382,86
+Europe,Germany,10/31/2020,14054,92
+Europe,Germany,11/1/2020,12556,30
+Europe,Germany,11/2/2020,25252,156
+Europe,Germany,11/3/2020,7533,48
+Europe,Germany,11/4/2020,31480,232
+Europe,Germany,11/5/2020,22561,161
+Europe,Germany,11/6/2020,22820,130
+Europe,Germany,11/7/2020,14122,66
+Europe,Germany,11/8/2020,14510,66
+Europe,Germany,11/9/2020,6522,36
+Europe,Germany,11/10/2020,26547,373
+Europe,Germany,11/11/2020,22401,213
+Europe,Germany,11/12/2020,24738,222
+Europe,Germany,11/13/2020,22261,188
+Europe,Germany,11/14/2020,14640,107
+Europe,Germany,11/15/2020,3213,62
+Europe,Germany,11/16/2020,14580,260
+Europe,Germany,11/17/2020,26231,305
+Europe,Germany,11/18/2020,23727,252
+Europe,Germany,11/19/2020,24041,272
+Europe,Germany,11/20/2020,22593,256
+Europe,Germany,11/21/2020,13872,143
+Europe,Germany,11/22/2020,4377,98
+Europe,Germany,11/23/2020,14455,301
+Europe,Germany,11/24/2020,16370,372
+Europe,Germany,11/25/2020,32687,378
+Europe,Germany,11/26/2020,21951,430
+Europe,Germany,11/27/2020,20819,371
+Europe,Germany,11/28/2020,13845,170
+Europe,Germany,11/29/2020,3197,125
+Europe,Germany,11/30/2020,14221,388
+Europe,Germany,12/1/2020,24766,483
+Europe,Germany,12/2/2020,23275,482
+Europe,Germany,12/3/2020,23591,438
+Europe,Germany,12/4/2020,15970,480
+Europe,Germany,12/5/2020,26126,262
+Europe,Germany,12/6/2020,10910,150
+Europe,Germany,12/7/2020,5456,445
+Europe,Germany,12/8/2020,29263,568
+Europe,Germany,12/9/2020,25089,458
+Europe,Germany,12/10/2020,32734,604
+Europe,Germany,12/11/2020,27217,503
+Europe,Germany,12/12/2020,21792,333
+Europe,Germany,12/13/2020,14709,206
+Europe,Germany,12/14/2020,6451,528
+Europe,Germany,12/15/2020,33825,910
+Europe,Germany,12/16/2020,32744,729
+Europe,Germany,12/17/2020,30179,754
+Europe,Germany,12/18/2020,32830,727
+Europe,Germany,12/19/2020,21679,417
+Europe,Germany,12/20/2020,6444,229
+Europe,Germany,12/21/2020,19256,710
+Europe,Germany,12/22/2020,36153,986
+Europe,Germany,12/23/2020,33758,813
+Europe,Germany,12/24/2020,26467,421
+Europe,Germany,12/25/2020,2140,250
+Europe,Germany,12/26/2020,13504,366
+Europe,Germany,12/27/2020,12399,351
+Europe,Germany,12/28/2020,14004,848
+Europe,Germany,12/29/2020,19466,1122
+Europe,Germany,12/30/2020,49044,963
+Europe,Germany,12/31/2020,19367,561
+Europe,Germany,1/1/2021,2117,354
